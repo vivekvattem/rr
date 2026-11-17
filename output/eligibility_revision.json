@@ -1,0 +1,83 @@
+{
+  "reason": "Retired players eligible under the declared performance sample rules.",
+  "policy_evidence": "data/reference/historical_eligibility_policy.json",
+  "scoring_changed": false,
+  "pressure_definition_changed": false,
+  "input_and_inclusion_audit_unchanged": true,
+  "previous_player_scores_and_intervals_unchanged": true,
+  "bootstrap_ranks_and_inclusion_frequencies_recomputed": true,
+  "cohort_counts": {
+    "batters": {
+      "before": 70,
+      "after": 72
+    },
+    "bowlers": {
+      "before": 52,
+      "after": 54
+    }
+  },
+  "changes": {
+    "batters": {
+      "added": [
+        "Dinesh Karthik"
+      ],
+      "removed": [
+        "Axar Patel"
+      ],
+      "before": [
+        "Suryakumar Yadav",
+        "Shreyas Iyer",
+        "Mark Chapman",
+        "Tim David",
+        "Heinrich Klaasen",
+        "Shashank Singh",
+        "Nitish Rana",
+        "Nicholas Pooran",
+        "Mohammad Nabi",
+        "Axar Patel"
+      ],
+      "after": [
+        "Suryakumar Yadav",
+        "Dinesh Karthik",
+        "Shreyas Iyer",
+        "Mark Chapman",
+        "Tim David",
+        "Heinrich Klaasen",
+        "Shashank Singh",
+        "Nitish Rana",
+        "Nicholas Pooran",
+        "Mohammad Nabi"
+      ]
+    },
+    "bowlers": {
+      "added": [],
+      "removed": [],
+      "before": [
+        "Mustafizur Rahman",
+        "Rashid Khan",
+        "Lockie Ferguson",
+        "Sunil Narine",
+        "Varun Chakravarthy",
+        "Matheesha Pathirana",
+        "Taskin Ahmed",
+        "Mitchell Santner",
+        "Josh Hazlewood",
+        "Kuldeep Yadav"
+      ],
+      "after": [
+        "Mustafizur Rahman",
+        "Rashid Khan",
+        "Lockie Ferguson",
+        "Sunil Narine",
+        "Varun Chakravarthy",
+        "Matheesha Pathirana",
+        "Taskin Ahmed",
+        "Mitchell Santner",
+        "Josh Hazlewood",
+        "Kuldeep Yadav"
+      ]
+    }
+  },
+  "previous_rankings_sha256": "0adedbcea31a8924d278ac02bb3d6d2dc94113b322d666b8e4a52a4eefa6b4b5",
+  "rankings_sha256": "b3cf7b0515c53b9255973f2ecb65d5beee94b4c8331e9d27eb3974f67a23496b"
+}

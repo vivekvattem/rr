@@ -1,0 +1,306 @@
+{
+  "batters": {
+    "Broader pressure": {
+      "threshold": 0.57,
+      "eligible": 90,
+      "overlap": 5,
+      "spearman": 0.8663579651424529,
+      "top10": [
+        "Dinesh Karthik",
+        "Shreyas Iyer",
+        "Shashank Singh",
+        "Suryakumar Yadav",
+        "Fakhar Zaman",
+        "Andre Russell",
+        "Glenn Maxwell",
+        "Quinton de Kock",
+        "Matthew Wade",
+        "Tim David"
+      ],
+      "official_ranks": {
+        "1699": 4,
+        "143": 1,
+        "3647": 2,
+        "3374": 16,
+        "6396": 10,
+        "4260": 12,
+        "2756": 3,
+        "4246": 13,
+        "3125": 18,
+        "1107": 15
+      }
+    },
+    "Stricter pressure": {
+      "threshold": 0.67,
+      "eligible": 40,
+      "overlap": 7,
+      "spearman": 0.8604127579737337,
+      "top10": [
+        "Shreyas Iyer",
+        "Suryakumar Yadav",
+        "Mohammad Nabi",
+        "Liam Livingstone",
+        "Tim David",
+        "Heinrich Klaasen",
+        "Nicholas Pooran",
+        "Washington Sundar",
+        "Shashank Singh",
+        "Mohammad Nawaz"
+      ],
+      "official_ranks": {
+        "1699": 2,
+        "143": null,
+        "3647": 1,
+        "3374": null,
+        "6396": 5,
+        "4260": 6,
+        "2756": 9,
+        "4246": null,
+        "3125": 7,
+        "1107": 3
+      }
+    },
+    "IPL only": {
+      "threshold": 0.62,
+      "eligible": 38,
+      "overlap": 6,
+      "spearman": 0.9293139293139293,
+      "top10": [
+        "Shreyas Iyer",
+        "Suryakumar Yadav",
+        "Namboori Tilak Varma",
+        "Axar Patel",
+        "Heinrich Klaasen",
+        "Nicholas Pooran",
+        "Shashank Singh",
+        "Nitish Rana",
+        "Washington Sundar",
+        "Shubman Gill"
+      ],
+      "official_ranks": {
+        "1699": 2,
+        "143": null,
+        "3647": 1,
+        "3374": null,
+        "6396": 12,
+        "4260": 5,
+        "2756": 7,
+        "4246": 8,
+        "3125": 6,
+        "1107": null
+      }
+    },
+    "Scoring-heavy weights": {
+      "threshold": 0.62,
+      "eligible": 72,
+      "overlap": 9,
+      "spearman": 0.9854653032349349,
+      "top10": [
+        "Shreyas Iyer",
+        "Suryakumar Yadav",
+        "Dinesh Karthik",
+        "Mark Chapman",
+        "Tim David",
+        "Heinrich Klaasen",
+        "Nitish Rana",
+        "Shashank Singh",
+        "Mohammad Nabi",
+        "Axar Patel"
+      ],
+      "official_ranks": {
+        "1699": 2,
+        "143": 3,
+        "3647": 1,
+        "3374": 4,
+        "6396": 5,
+        "4260": 6,
+        "2756": 8,
+        "4246": 7,
+        "3125": 12,
+        "1107": 9
+      }
+    },
+    "Wicket-heavy weights": {
+      "threshold": 0.62,
+      "eligible": 72,
+      "overlap": 8,
+      "spearman": 0.950254035629301,
+      "top10": [
+        "Suryakumar Yadav",
+        "Dinesh Karthik",
+        "Shreyas Iyer",
+        "Mark Chapman",
+        "Tim David",
+        "Shashank Singh",
+        "Heinrich Klaasen",
+        "Washington Sundar",
+        "Nicholas Pooran",
+        "Namboori Tilak Varma"
+      ],
+      "official_ranks": {
+        "1699": 1,
+        "143": 2,
+        "3647": 3,
+        "3374": 4,
+        "6396": 5,
+        "4260": 7,
+        "2756": 6,
+        "4246": 15,
+        "3125": 9,
+        "1107": 13
+      }
+    }
+  },
+  "bowlers": {
+    "Broader pressure": {
+      "threshold": 0.57,
+      "eligible": 79,
+      "overlap": 6,
+      "spearman": 0.903487707261292,
+      "top10": [
+        "Mustafizur Rahman",
+        "Rashid Khan",
+        "Mitchell Santner",
+        "Jofra Archer",
+        "Abrar Ahmed",
+        "Sunil Narine",
+        "Mujeeb Ur Rahman",
+        "Matheesha Pathirana",
+        "Taskin Ahmed",
+        "Shaheen Afridi"
+      ],
+      "official_ranks": {
+        "4373": 1,
+        "4722": 2,
+        "4692": 14,
+        "781": 6,
+        "6256": 12,
+        "8661": 8,
+        "2681": 9,
+        "4101": 3,
+        "830": 26,
+        "3644": 18
+      }
+    },
+    "Stricter pressure": {
+      "threshold": 0.67,
+      "eligible": 32,
+      "overlap": 7,
+      "spearman": 0.8585043988269794,
+      "top10": [
+        "Mustafizur Rahman",
+        "Sunil Narine",
+        "Rashid Khan",
+        "Matheesha Pathirana",
+        "Varun Chakravarthy",
+        "Mitchell Santner",
+        "Ravichandran Ashwin",
+        "Sikandar Raza",
+        "Avesh Khan",
+        "Josh Hazlewood"
+      ],
+      "official_ranks": {
+        "4373": 1,
+        "4722": 3,
+        "4692": null,
+        "781": 2,
+        "6256": 5,
+        "8661": 4,
+        "2681": null,
+        "4101": 6,
+        "830": 10,
+        "3644": 13
+      }
+    },
+    "IPL only": {
+      "threshold": 0.62,
+      "eligible": 24,
+      "overlap": 5,
+      "spearman": 0.8426086956521738,
+      "top10": [
+        "Sunil Narine",
+        "Matheesha Pathirana",
+        "Avesh Khan",
+        "Bhuvneshwar Kumar",
+        "Krunal Pandya",
+        "Kuldeep Yadav",
+        "Varun Chakravarthy",
+        "Mohammed Siraj",
+        "Rashid Khan",
+        "Harshal Patel"
+      ],
+      "official_ranks": {
+        "4373": null,
+        "4722": 9,
+        "4692": null,
+        "781": 1,
+        "6256": 7,
+        "8661": 2,
+        "2681": null,
+        "4101": null,
+        "830": null,
+        "3644": 6
+      }
+    },
+    "Scoring-heavy weights": {
+      "threshold": 0.62,
+      "eligible": 54,
+      "overlap": 8,
+      "spearman": 0.9760625119115683,
+      "top10": [
+        "Mustafizur Rahman",
+        "Rashid Khan",
+        "Lockie Ferguson",
+        "Sunil Narine",
+        "Matheesha Pathirana",
+        "Varun Chakravarthy",
+        "Mitchell Santner",
+        "Abrar Ahmed",
+        "Jasprit Bumrah",
+        "Taskin Ahmed"
+      ],
+      "official_ranks": {
+        "4373": 1,
+        "4722": 2,
+        "4692": 3,
+        "781": 4,
+        "6256": 6,
+        "8661": 5,
+        "2681": 10,
+        "4101": 7,
+        "830": 14,
+        "3644": 13
+      }
+    },
+    "Wicket-heavy weights": {
+      "threshold": 0.62,
+      "eligible": 54,
+      "overlap": 10,
+      "spearman": 0.9888698303792642,
+      "top10": [
+        "Mustafizur Rahman",
+        "Rashid Khan",
+        "Lockie Ferguson",
+        "Sunil Narine",
+        "Taskin Ahmed",
+        "Varun Chakravarthy",
+        "Matheesha Pathirana",
+        "Mitchell Santner",
+        "Josh Hazlewood",
+        "Kuldeep Yadav"
+      ],
+      "official_ranks": {
+        "4373": 1,
+        "4722": 2,
+        "4692": 3,
+        "781": 4,
+        "6256": 6,
+        "8661": 7,
+        "2681": 5,
+        "4101": 8,
+        "830": 9,
+        "3644": 10
+      }
+    }
+  }
+}

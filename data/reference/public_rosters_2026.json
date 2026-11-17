@@ -1,0 +1,2314 @@
+{
+  "CSK": {
+    "team": "Chennai Super Kings",
+    "season": 2026,
+    "source_url": "https://www.iplt20.com/api/bff/cms/teams/chennai-super-kings?tab=squad",
+    "page_url": "https://www.iplt20.com/teams/chennai-super-kings/squad",
+    "source_type": "official",
+    "announcement_date": "unknown",
+    "verification_date": "2026-11-13",
+    "response_sha256": "88e6b7da9526725e87108513dd01acf9349f8bbc1481c62a54c9941ef8d8c729",
+    "players": [
+      {
+        "name": "Khaleel Ahmed",
+        "externalId": 43272,
+        "slug": "khaleel-ahmed",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Dewald Brevis",
+        "externalId": 75144,
+        "slug": "dewald-brevis",
+        "role": "batsman",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Rahul Chahar",
+        "externalId": 63511,
+        "slug": "rahul-chahar",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Mukesh Choudhary",
+        "externalId": 70580,
+        "slug": "mukesh-choudhary",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Mahendra Singh Dhoni",
+        "externalId": 11318,
+        "slug": "mahendra-singh-dhoni",
+        "role": "wicketkeeper",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Shivam Dube",
+        "externalId": 63520,
+        "slug": "shivam-dube",
+        "role": "allrounder",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Nathan Ellis",
+        "externalId": 68917,
+        "slug": "nathan-ellis",
+        "role": "bowler",
+        "country": "Australia",
+        "countryCode": "au"
+      },
+      {
+        "name": "Dian Forrester",
+        "externalId": 82390,
+        "slug": "dian-forrester",
+        "role": "allrounder",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Zak Foulkes",
+        "externalId": 75966,
+        "slug": "zak-foulkes",
+        "role": "allrounder",
+        "country": "New Zealand",
+        "countryCode": "nz"
+      },
+      {
+        "name": "Ruturaj Gaikwad",
+        "externalId": 64377,
+        "slug": "ruturaj-gaikwad",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Ramakrishna Ghosh",
+        "externalId": 78758,
+        "slug": "ramakrishna-ghosh",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Shreyas Gopal",
+        "externalId": 16937,
+        "slug": "shreyas-gopal",
+        "role": "allrounder",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Matt Henry",
+        "externalId": 18052,
+        "slug": "matt-henry",
+        "role": "bowler",
+        "country": "New Zealand",
+        "countryCode": "nz"
+      },
+      {
+        "name": "Akeal Hosein",
+        "externalId": 24868,
+        "slug": "akeal-hosein",
+        "role": "bowler",
+        "country": "West Indies",
+        "countryCode": "wi"
+      },
+      {
+        "name": "Spencer Johnson",
+        "externalId": 66728,
+        "slug": "spencer-johnson",
+        "role": "bowler",
+        "country": "Australia",
+        "countryCode": "au"
+      },
+      {
+        "name": "Anshul Kamboj",
+        "externalId": 70442,
+        "slug": "anshul-kamboj",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Aman Khan",
+        "externalId": 74139,
+        "slug": "aman-khan",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Sarfaraz Khan",
+        "externalId": 20224,
+        "slug": "sarfaraz-khan",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Akash Madhwal",
+        "externalId": 72670,
+        "slug": "akash-madhwal",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Ayush Mhatre",
+        "externalId": 86445,
+        "slug": "ayush-mhatre",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Noor Ahmad",
+        "externalId": 71151,
+        "slug": "noor-ahmad",
+        "role": "bowler",
+        "country": "Afghanistan",
+        "countryCode": "af"
+      },
+      {
+        "name": "Macneil Noronha",
+        "externalId": 83038,
+        "slug": "macneil-noronha",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Jamie Overton",
+        "externalId": 10301,
+        "slug": "jamie-overton",
+        "role": "allrounder",
+        "country": "England",
+        "countryCode": "gb-eng"
+      },
+      {
+        "name": "Urvil Patel",
+        "externalId": 67543,
+        "slug": "urvil-patel",
+        "role": "wicketkeeper",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Sanju Samson",
+        "externalId": 17613,
+        "slug": "sanju-samson",
+        "role": "wicketkeeper",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Kartik Sharma",
+        "externalId": 87338,
+        "slug": "kartik-sharma",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Matt Short",
+        "externalId": 20067,
+        "slug": "matt-short",
+        "role": "batsman",
+        "country": "Australia",
+        "countryCode": "au"
+      },
+      {
+        "name": "Gurjapneet Singh",
+        "externalId": 74631,
+        "slug": "gurjapneet-singh",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Prashant Veer",
+        "externalId": 82907,
+        "slug": "prashant-veer",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Kuldip Yadav",
+        "externalId": 72756,
+        "slug": "kuldip-yadav",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      }
+    ]
+  },
+  "DC": {
+    "team": "Delhi Capitals",
+    "season": 2026,
+    "source_url": "https://www.iplt20.com/api/bff/cms/teams/delhi-capitals?tab=squad",
+    "page_url": "https://www.iplt20.com/teams/delhi-capitals/squad",
+    "source_type": "official",
+    "announcement_date": "unknown",
+    "verification_date": "2026-11-13",
+    "response_sha256": "cad1fbfb9a0d118f4728b19b6b98a4282270bf3e4949158345ddd7ef8d49152c",
+    "players": [
+      {
+        "name": "Rehan Ahmed",
+        "externalId": 74536,
+        "slug": "rehan-ahmed",
+        "role": "batsman",
+        "country": "England",
+        "countryCode": "gb-eng"
+      },
+      {
+        "name": "Dushmantha Chameera",
+        "externalId": 13294,
+        "slug": "dushmantha-chameera",
+        "role": "bowler",
+        "country": "Sri Lanka",
+        "countryCode": "lk"
+      },
+      {
+        "name": "Ben Duckett",
+        "externalId": 17314,
+        "slug": "ben-duckett",
+        "role": "batsman",
+        "country": "England",
+        "countryCode": "gb-eng"
+      },
+      {
+        "name": "Kyle Jamieson",
+        "externalId": 33186,
+        "slug": "kyle-jamieson",
+        "role": "bowler",
+        "country": "New Zealand",
+        "countryCode": "nz"
+      },
+      {
+        "name": "Mukesh Kumar",
+        "externalId": 31742,
+        "slug": "mukesh-kumar",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Ajay Mandal",
+        "externalId": 41417,
+        "slug": "ajay-mandal",
+        "role": "allrounder",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "David Miller",
+        "externalId": 13575,
+        "slug": "david-miller",
+        "role": "batsman",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Auqib Nabi",
+        "externalId": 68788,
+        "slug": "auqib-nabi-dar",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Karun Nair",
+        "externalId": 16936,
+        "slug": "karun-nair",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Thangarasu Natarajan",
+        "externalId": 37001,
+        "slug": "thangarasu-natarajan",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Lungi Ngidi",
+        "externalId": 28230,
+        "slug": "lungi-ngidi",
+        "role": "bowler",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Vipraj Nigam",
+        "externalId": 86874,
+        "slug": "vipraj-nigam",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Sahil Parakh",
+        "externalId": 86350,
+        "slug": "sahil-parakh",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Axar Patel",
+        "externalId": 17616,
+        "slug": "axar-patel",
+        "role": "allrounder",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Abishek Porel",
+        "externalId": 76558,
+        "slug": "abishek-porel",
+        "role": "wicketkeeper",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "KL Rahul",
+        "externalId": 20451,
+        "slug": "kl-rahul",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Nitish Rana",
+        "externalId": 23460,
+        "slug": "nitish-rana",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Sameer Rizvi",
+        "externalId": 71449,
+        "slug": "sameer-rizvi",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Ashutosh Sharma",
+        "externalId": 67627,
+        "slug": "ashutosh-sharma",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Prithvi Shaw",
+        "externalId": 65301,
+        "slug": "prithvi-shaw",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Pathum Nissanka",
+        "externalId": 34256,
+        "slug": "pathum-nissanka",
+        "role": "batsman",
+        "country": "Sri Lanka",
+        "countryCode": "lk"
+      },
+      {
+        "name": "Mitchell Starc",
+        "externalId": 14328,
+        "slug": "mitchell-starc",
+        "role": "bowler",
+        "country": "Australia",
+        "countryCode": "au"
+      },
+      {
+        "name": "Tristan Stubbs",
+        "externalId": 73364,
+        "slug": "tristan-stubbs",
+        "role": "batsman",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Madhav Tiwari",
+        "externalId": 87978,
+        "slug": "madhav-tiwari",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Tripurana Vijay",
+        "externalId": 76128,
+        "slug": "tripurana-vijay",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Kuldeep Yadav",
+        "externalId": 20030,
+        "slug": "kuldeep-yadav",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      }
+    ]
+  },
+  "GT": {
+    "team": "Gujarat Titans",
+    "season": 2026,
+    "source_url": "https://www.iplt20.com/api/bff/cms/teams/gujarat-titans?tab=squad",
+    "page_url": "https://www.iplt20.com/teams/gujarat-titans/squad",
+    "source_type": "official",
+    "announcement_date": "unknown",
+    "verification_date": "2026-11-13",
+    "response_sha256": "55ae86fe3bbdf50bdd3b82c7c709ae5887f54a511bdb83e48310f59b47a2c75d",
+    "players": [
+      {
+        "name": "Arshad Khan",
+        "externalId": 74055,
+        "slug": "arshad-khan",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Tom Banton",
+        "externalId": 65546,
+        "slug": "tom-banton",
+        "role": "batsman",
+        "country": "England",
+        "countryCode": "gb-eng"
+      },
+      {
+        "name": "Gurnoor Brar",
+        "externalId": 76164,
+        "slug": "gurnoor-brar",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Jos Buttler",
+        "externalId": 16261,
+        "slug": "jos-buttler",
+        "role": "wicketkeeper",
+        "country": "England",
+        "countryCode": "gb-eng"
+      },
+      {
+        "name": "Connor Esterhuizen",
+        "externalId": 77032,
+        "slug": "connor-esterhuizen",
+        "role": "wicketkeeper",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Shubman Gill",
+        "externalId": 65345,
+        "slug": "shubman-gill",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Jason Holder",
+        "externalId": 12693,
+        "slug": "jason-holder",
+        "role": "allrounder",
+        "country": "West Indies",
+        "countryCode": "wi"
+      },
+      {
+        "name": "Kulwant Khejroliya",
+        "externalId": 65727,
+        "slug": "kulwant-khejroliya",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Prasidh Krishna",
+        "externalId": 59553,
+        "slug": "prasidh-krishna",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Kumar Kushagra",
+        "externalId": 72805,
+        "slug": "kumar-kushagra",
+        "role": "wicketkeeper",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Glenn Phillips",
+        "externalId": 26160,
+        "slug": "glenn-phillips",
+        "role": "batsman",
+        "country": "New Zealand",
+        "countryCode": "nz"
+      },
+      {
+        "name": "Yarra Prithviraj",
+        "externalId": 66840,
+        "slug": "yarra-prithviraj",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Kagiso Rabada",
+        "externalId": 19720,
+        "slug": "kagiso-rabada",
+        "role": "bowler",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Rashid Khan",
+        "externalId": 25242,
+        "slug": "rashid-khan",
+        "role": "bowler",
+        "country": "Afghanistan",
+        "countryCode": "af"
+      },
+      {
+        "name": "Anuj Rawat",
+        "externalId": 66837,
+        "slug": "anuj-rawat",
+        "role": "wicketkeeper",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Sai Kishore",
+        "externalId": 65783,
+        "slug": "sai-kishore",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Sai Sudharsan",
+        "externalId": 74538,
+        "slug": "sai-sudharsan",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Shahrukh Khan",
+        "externalId": 27214,
+        "slug": "shahrukh-khan",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Ashok Sharma",
+        "externalId": 76540,
+        "slug": "ashok-sharma",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Ishant Sharma",
+        "externalId": 17701,
+        "slug": "ishant-sharma",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Nishant Sindhu",
+        "externalId": 76212,
+        "slug": "nishant-sindhu",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Mohammed Siraj",
+        "externalId": 44904,
+        "slug": "mohammed-siraj",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Manav Suthar",
+        "externalId": 70453,
+        "slug": "manav-suthar",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Rahul Tewatia",
+        "externalId": 50536,
+        "slug": "rahul-tewatia",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Washington Sundar",
+        "externalId": 20226,
+        "slug": "washington-sundar",
+        "role": "allrounder",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Luke Wood",
+        "externalId": 41054,
+        "slug": "luke-wood",
+        "role": "bowler",
+        "country": "England",
+        "countryCode": "gb-eng"
+      },
+      {
+        "name": "Jayant Yadav",
+        "externalId": 18001,
+        "slug": "jayant-yadav",
+        "role": "allrounder",
+        "country": "India",
+        "countryCode": "in"
+      }
+    ]
+  },
+  "KKR": {
+    "team": "Kolkata Knight Riders",
+    "season": 2026,
+    "source_url": "https://www.iplt20.com/api/bff/cms/teams/kolkata-knight-riders?tab=squad",
+    "page_url": "https://www.iplt20.com/teams/kolkata-knight-riders/squad",
+    "source_type": "official",
+    "announcement_date": "unknown",
+    "verification_date": "2026-11-13",
+    "response_sha256": "9160ec570bc15553cdce83f1053bfd1706f5c8fab01937301feb866a3948bff8",
+    "players": [
+      {
+        "name": "Finn Allen",
+        "externalId": 26170,
+        "slug": "finn-allen",
+        "role": "batsman",
+        "country": "New Zealand",
+        "countryCode": "nz"
+      },
+      {
+        "name": "Vaibhav Arora",
+        "externalId": 72965,
+        "slug": "vaibhav-arora",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Varun Chakaravarthy",
+        "externalId": 68649,
+        "slug": "varun-chakravarthy",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Tejasvi Dahiya",
+        "externalId": 86769,
+        "slug": "tejasvi-dahiya",
+        "role": "wicketkeeper",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Akash Deep",
+        "externalId": 70603,
+        "slug": "akash-deep",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Saurabh Dubey",
+        "externalId": 72721,
+        "slug": "saurabh-dubey",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Cameron Green",
+        "externalId": 65397,
+        "slug": "cameron-green",
+        "role": "batsman",
+        "country": "Australia",
+        "countryCode": "au"
+      },
+      {
+        "name": "Daksh Kamra",
+        "externalId": 95066,
+        "slug": "daksh-kamra",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Mustafizur Rahman",
+        "externalId": 19402,
+        "slug": "mustafizur-rahman",
+        "role": "bowler",
+        "country": "Bangladesh",
+        "countryCode": "bd"
+      },
+      {
+        "name": "Blessing Muzarabani",
+        "externalId": 66839,
+        "slug": "blessing-muzarabani",
+        "role": "bowler",
+        "country": "Zimbabwe",
+        "countryCode": "zw"
+      },
+      {
+        "name": "Sunil Narine",
+        "externalId": 11658,
+        "slug": "sunil-narine",
+        "role": "bowler",
+        "country": "West Indies",
+        "countryCode": "wi"
+      },
+      {
+        "name": "Manish Pandey",
+        "externalId": 16935,
+        "slug": "manish-pandey",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Matheesha Pathirana",
+        "externalId": 72580,
+        "slug": "matheesha-pathirana",
+        "role": "bowler",
+        "country": "Sri Lanka",
+        "countryCode": "lk"
+      },
+      {
+        "name": "Rovman Powell",
+        "externalId": 20866,
+        "slug": "rovman-powell",
+        "role": "batsman",
+        "country": "West Indies",
+        "countryCode": "wi"
+      },
+      {
+        "name": "Angkrish Raghuvanshi",
+        "externalId": 76204,
+        "slug": "angkrish-raghuvanshi",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Ajinkya Rahane",
+        "externalId": 12685,
+        "slug": "ajinkya-rahane",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Ramandeep Singh",
+        "externalId": 65478,
+        "slug": "ramandeep-singh",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Harshit Rana",
+        "externalId": 77153,
+        "slug": "harshit-rana",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Sarthak Ranjan",
+        "externalId": 60039,
+        "slug": "sarthak-ranjan",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Rachin Ravindra",
+        "externalId": 26162,
+        "slug": "rachin-ravindra",
+        "role": "allrounder",
+        "country": "New Zealand",
+        "countryCode": "nz"
+      },
+      {
+        "name": "Anukul Roy",
+        "externalId": 65841,
+        "slug": "anukul-roy",
+        "role": "allrounder",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Navdeep Saini",
+        "externalId": 16790,
+        "slug": "navdeep-saini",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Tim Seifert",
+        "externalId": 20009,
+        "slug": "tim-seifert",
+        "role": "wicketkeeper",
+        "country": "New Zealand",
+        "countryCode": "nz"
+      },
+      {
+        "name": "Rinku Singh",
+        "externalId": 33718,
+        "slug": "rinku-singh",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Luvnith Sisodia",
+        "externalId": 70503,
+        "slug": "luvnith-sisodia",
+        "role": "wicketkeeper",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Prashant Solanki",
+        "externalId": 74067,
+        "slug": "prashant-solanki",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Rahul Tripathi",
+        "externalId": 22692,
+        "slug": "rahul-tripathi",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Kartik Tyagi",
+        "externalId": 66831,
+        "slug": "kartik-tyagi",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Umran Malik",
+        "externalId": 73981,
+        "slug": "umran-malik",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      }
+    ]
+  },
+  "LSG": {
+    "team": "Lucknow Super Giants",
+    "season": 2026,
+    "source_url": "https://www.iplt20.com/api/bff/cms/teams/lucknow-super-giants?tab=squad",
+    "page_url": "https://www.iplt20.com/teams/lucknow-super-giants/squad",
+    "source_type": "official",
+    "announcement_date": "unknown",
+    "verification_date": "2026-11-13",
+    "response_sha256": "3dcbcc6fcdb5b629036850dcfece0213518ae4d1ea1b2d78a8300a71dd9b675a",
+    "players": [
+      {
+        "name": "Ayush Badoni",
+        "externalId": 68296,
+        "slug": "ayush-badoni",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Matthew Breetzke",
+        "externalId": 32332,
+        "slug": "matthew-breetzke",
+        "role": "batsman",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Mukul Choudhary",
+        "externalId": 79805,
+        "slug": "mukul-choudhary",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Wanindu Hasaranga",
+        "externalId": 26489,
+        "slug": "wanindu-hasaranga",
+        "role": "allrounder",
+        "country": "Sri Lanka",
+        "countryCode": "lk"
+      },
+      {
+        "name": "Josh Inglis",
+        "externalId": 37709,
+        "slug": "josh-inglis",
+        "role": "wicketkeeper",
+        "country": "Australia",
+        "countryCode": "au"
+      },
+      {
+        "name": "Avesh Khan",
+        "externalId": 20223,
+        "slug": "avesh-khan",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Arshin Kulkarni",
+        "externalId": 82909,
+        "slug": "arshin-kulkarni",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "George Linde",
+        "externalId": 20680,
+        "slug": "george-linde",
+        "role": "allrounder",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Aiden Markram",
+        "externalId": 27774,
+        "slug": "aiden-markram",
+        "role": "batsman",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Mitch Marsh",
+        "externalId": 12612,
+        "slug": "mitch-marsh",
+        "role": "batsman",
+        "country": "Australia",
+        "countryCode": "au"
+      },
+      {
+        "name": "Mohsin Khan",
+        "externalId": 67617,
+        "slug": "mohsin-khan",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Anrich Nortje",
+        "externalId": 23659,
+        "slug": "anrich-nortje",
+        "role": "bowler",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Rishabh Pant",
+        "externalId": 17617,
+        "slug": "rishabh-pant",
+        "role": "wicketkeeper",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Nicholas Pooran",
+        "externalId": 23906,
+        "slug": "nicholas-pooran",
+        "role": "wicketkeeper",
+        "country": "West Indies",
+        "countryCode": "wi"
+      },
+      {
+        "name": "Akshat Raghuwanshi",
+        "externalId": 76593,
+        "slug": "akshat-raghuwanshi",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Digvesh Singh Rathi",
+        "externalId": 86771,
+        "slug": "digvesh-singh-rathi",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Abdul Samad",
+        "externalId": 70433,
+        "slug": "abdul-samad",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Shahbaz Ahmed",
+        "externalId": 70625,
+        "slug": "shahbaz-ahmed",
+        "role": "allrounder",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Mohammad Shami",
+        "externalId": 11458,
+        "slug": "mohammed-shami",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Manimaran Siddharth",
+        "externalId": 69572,
+        "slug": "manimaran-siddharth",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Akash Singh",
+        "externalId": 69004,
+        "slug": "akash-singh",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Himmat Singh",
+        "externalId": 54303,
+        "slug": "himmat-singh",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Arjun Tendulkar",
+        "externalId": 68286,
+        "slug": "arjun-tendulkar",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Naman Tiwari",
+        "externalId": 83310,
+        "slug": "naman-tiwari",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Mayank Yadav",
+        "externalId": 76160,
+        "slug": "mayank-yadav",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Prince Yadav",
+        "externalId": 84374,
+        "slug": "prince-yadav",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      }
+    ]
+  },
+  "MI": {
+    "team": "Mumbai Indians",
+    "season": 2026,
+    "source_url": "https://www.iplt20.com/api/bff/cms/teams/mumbai-indians?tab=squad",
+    "page_url": "https://www.iplt20.com/teams/mumbai-indians/squad",
+    "source_type": "official",
+    "announcement_date": "unknown",
+    "verification_date": "2026-11-13",
+    "response_sha256": "40f487e7af5551677ed216b5cf3524d04091196ff575fa6d6f5d768e1b90e747",
+    "players": [
+      {
+        "name": "Ruchit Ahir",
+        "externalId": 87900,
+        "slug": "ruchit-ahir",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Atharva Ankolekar",
+        "externalId": 72144,
+        "slug": "atharva-ankolekar",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Raj Bawa",
+        "externalId": 76211,
+        "slug": "raj-bawa",
+        "role": "allrounder",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Krish Bhagat",
+        "externalId": 87066,
+        "slug": "krish-bhagat",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Corbin Bosch",
+        "externalId": 22181,
+        "slug": "corbin-bosch",
+        "role": "allrounder",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Trent Boult",
+        "externalId": 14330,
+        "slug": "trent-boult",
+        "role": "bowler",
+        "country": "New Zealand",
+        "countryCode": "nz"
+      },
+      {
+        "name": "Jasprit Bumrah",
+        "externalId": 16096,
+        "slug": "jasprit-bumrah",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Deepak Chahar",
+        "externalId": 19257,
+        "slug": "deepak-chahar",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Quinton de Kock",
+        "externalId": 17614,
+        "slug": "quinton-de-kock",
+        "role": "wicketkeeper",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Naman Dhir",
+        "externalId": 79429,
+        "slug": "naman-dhir",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "AM Ghazanfar",
+        "externalId": 78206,
+        "slug": "am-ghazanfar",
+        "role": "bowler",
+        "country": "Afghanistan",
+        "countryCode": "af"
+      },
+      {
+        "name": "Mohammed Izhar",
+        "externalId": 94165,
+        "slug": "mohammed-izhar",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Will Jacks",
+        "externalId": 65551,
+        "slug": "will-jacks",
+        "role": "batsman",
+        "country": "England",
+        "countryCode": "gb-eng"
+      },
+      {
+        "name": "Ashwani Kumar",
+        "externalId": 72996,
+        "slug": "ashwani-kumar",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Mahipal Lomror",
+        "externalId": 20222,
+        "slug": "mahipal-lomror",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Keshav Maharaj",
+        "externalId": 16664,
+        "slug": "keshav-maharaj",
+        "role": "bowler",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Danish Malewar",
+        "externalId": 87528,
+        "slug": "danish-malewar",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Mayank Markande",
+        "externalId": 67641,
+        "slug": "mayank-markande",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Robin Minz",
+        "externalId": 84159,
+        "slug": "robin-minz",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Hardik Pandya",
+        "externalId": 16093,
+        "slug": "hardik-pandya",
+        "role": "allrounder",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Mayank Rawat",
+        "externalId": 65550,
+        "slug": "mayank-rawat",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Ryan Rickelton",
+        "externalId": 37670,
+        "slug": "ryan-rickelton",
+        "role": "wicketkeeper",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Sherfane Rutherford",
+        "externalId": 66048,
+        "slug": "sherfane-rutherford",
+        "role": "batsman",
+        "country": "West Indies",
+        "countryCode": "wi"
+      },
+      {
+        "name": "Mitch Santner",
+        "externalId": 14334,
+        "slug": "mitch-santner",
+        "role": "allrounder",
+        "country": "New Zealand",
+        "countryCode": "nz"
+      },
+      {
+        "name": "Rohit Sharma",
+        "externalId": 11326,
+        "slug": "rohit-sharma",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Raghu Sharma",
+        "externalId": 66897,
+        "slug": "raghu-sharma",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Shardul Thakur",
+        "externalId": 27765,
+        "slug": "shardul-thakur",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Tilak Varma",
+        "externalId": 69845,
+        "slug": "tilak-varma",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Suryakumar Yadav",
+        "externalId": 20861,
+        "slug": "suryakumar-yadav",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      }
+    ]
+  },
+  "PBKS": {
+    "team": "Punjab Kings",
+    "season": 2026,
+    "source_url": "https://www.iplt20.com/api/bff/cms/teams/punjab-kings?tab=squad",
+    "page_url": "https://www.iplt20.com/teams/punjab-kings/squad",
+    "source_type": "official",
+    "announcement_date": "unknown",
+    "verification_date": "2026-11-13",
+    "response_sha256": "2c9e6b66d541cb8082890f7ef3beddba2d1c07ad265e07d0f1a28d2dc318de3a",
+    "players": [
+      {
+        "name": "Priyansh Arya",
+        "externalId": 75656,
+        "slug": "priyansh-arya",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Pyla Avinash",
+        "externalId": 83182,
+        "slug": "pyla-avinash",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Azmatullah Omarzai",
+        "externalId": 66512,
+        "slug": "azmatullah-omarzai",
+        "role": "allrounder",
+        "country": "Afghanistan",
+        "countryCode": "af"
+      },
+      {
+        "name": "Xavier Bartlett",
+        "externalId": 55170,
+        "slug": "xavier-bartlett",
+        "role": "bowler",
+        "country": "Australia",
+        "countryCode": "au"
+      },
+      {
+        "name": "Harpreet Brar",
+        "externalId": 69782,
+        "slug": "harpreet-brar",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Yuzvendra Chahal",
+        "externalId": 14621,
+        "slug": "yuzvendra-chahal",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Cooper Connolly",
+        "externalId": 73472,
+        "slug": "cooper-connolly",
+        "role": "batsman",
+        "country": "Australia",
+        "countryCode": "au"
+      },
+      {
+        "name": "Pravin Dubey",
+        "externalId": 49784,
+        "slug": "praveen-dubey",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Ben Dwarshuis",
+        "externalId": 46139,
+        "slug": "ben-dwarshuis",
+        "role": "bowler",
+        "country": "Australia",
+        "countryCode": "au"
+      },
+      {
+        "name": "Lockie Ferguson",
+        "externalId": 20183,
+        "slug": "lockie-ferguson",
+        "role": "bowler",
+        "country": "New Zealand",
+        "countryCode": "nz"
+      },
+      {
+        "name": "Shreyas Iyer",
+        "externalId": 22014,
+        "slug": "shreyas-iyer",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Marco Jansen",
+        "externalId": 68021,
+        "slug": "marco-jansen",
+        "role": "allrounder",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Musheer Khan",
+        "externalId": 79510,
+        "slug": "musheer-khan",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Vishal Nishad",
+        "externalId": 86859,
+        "slug": "vishal-nishad",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Mitch Owen",
+        "externalId": 73856,
+        "slug": "mitch-owen",
+        "role": "batsman",
+        "country": "Australia",
+        "countryCode": "au"
+      },
+      {
+        "name": "Suryansh Shedge",
+        "externalId": 78777,
+        "slug": "suryansh-shedge",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Arshdeep Singh",
+        "externalId": 67190,
+        "slug": "arshdeep-singh",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Harnoor Singh",
+        "externalId": 76208,
+        "slug": "harnoor-singh",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Prabhsimran Singh",
+        "externalId": 68831,
+        "slug": "prabhsimran-singh",
+        "role": "wicketkeeper",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Shashank Singh",
+        "externalId": 34331,
+        "slug": "shashank-singh",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Marcus Stoinis",
+        "externalId": 10925,
+        "slug": "marcus-stoinis",
+        "role": "batsman",
+        "country": "Australia",
+        "countryCode": "au"
+      },
+      {
+        "name": "Yash Thakur",
+        "externalId": 65344,
+        "slug": "yash-thakur",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Vishnu Vinod",
+        "externalId": 34672,
+        "slug": "vishnu-vinod",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Vijaykumar Vyshak",
+        "externalId": 74053,
+        "slug": "vijaykumar-vyshak",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Nehal Wadhera",
+        "externalId": 68289,
+        "slug": "nehal-wadhera",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      }
+    ]
+  },
+  "RR": {
+    "team": "Rajasthan Royals",
+    "season": 2026,
+    "source_url": "https://www.iplt20.com/api/bff/cms/teams/rajasthan-royals?tab=squad",
+    "page_url": "https://www.iplt20.com/teams/rajasthan-royals/squad",
+    "source_type": "official",
+    "announcement_date": "unknown",
+    "verification_date": "2026-11-13",
+    "response_sha256": "bf956d6bcbc2f5f59eb41f40b38f4d11a5736656a972b7ba50409bd802b10150",
+    "players": [
+      {
+        "name": "Jofra Archer",
+        "externalId": 28503,
+        "slug": "jofra-archer",
+        "role": "bowler",
+        "country": "England",
+        "countryCode": "gb-eng"
+      },
+      {
+        "name": "Ravi Bishnoi",
+        "externalId": 70430,
+        "slug": "ravi-bishnoi",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Nandre Burger",
+        "externalId": 52827,
+        "slug": "nandre-burger",
+        "role": "bowler",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Emanjot Singh Chahal",
+        "externalId": 87006,
+        "slug": "emanjot-singh-chahal",
+        "role": "allrounder",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Yudhvir Singh Charak",
+        "externalId": 72710,
+        "slug": "yudhvir-singh-charak",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Sam Curran",
+        "externalId": 21837,
+        "slug": "sam-curran",
+        "role": "allrounder",
+        "country": "England",
+        "countryCode": "gb-eng"
+      },
+      {
+        "name": "Riyan Parag",
+        "externalId": 65476,
+        "slug": "riyan-parag",
+        "role": "allrounder",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Tushar Deshpande",
+        "externalId": 44044,
+        "slug": "tushar-deshpande",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Shubham Dubey",
+        "externalId": 74047,
+        "slug": "shubham-dubey",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Donovan Ferreira",
+        "externalId": 68473,
+        "slug": "donovan-ferreira",
+        "role": "batsman",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Shimron Hetmyer",
+        "externalId": 23713,
+        "slug": "shimron-hetmyer",
+        "role": "batsman",
+        "country": "West Indies",
+        "countryCode": "wi"
+      },
+      {
+        "name": "Ravindra Jadeja",
+        "externalId": 13143,
+        "slug": "ravindra-jadeja",
+        "role": "allrounder",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Yashasvi Jaiswal",
+        "externalId": 68314,
+        "slug": "yashasvi-jaiswal",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Dhruv Jurel",
+        "externalId": 71456,
+        "slug": "dhruv-jurel",
+        "role": "wicketkeeper",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Kwena Maphaka",
+        "externalId": 76217,
+        "slug": "kwena-maphaka",
+        "role": "bowler",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Adam Milne",
+        "externalId": 20007,
+        "slug": "adam-milne",
+        "role": "bowler",
+        "country": "New Zealand",
+        "countryCode": "nz"
+      },
+      {
+        "name": "Sushant Mishra",
+        "externalId": 71452,
+        "slug": "sushant-mishra",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Aman Rao",
+        "externalId": 87914,
+        "slug": "aman-rao",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Lhuan-dr\u00e9 Pretorius",
+        "externalId": 81719,
+        "slug": "lhuan-dre-pretorius",
+        "role": "batsman",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Yash Punja",
+        "externalId": 92045,
+        "slug": "yash-punja",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Vignesh Puthur",
+        "externalId": 87852,
+        "slug": "vignesh-puthur",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Kuldeep Sen",
+        "externalId": 69043,
+        "slug": "kuldeep-sen",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Dasun Shanaka",
+        "externalId": 16094,
+        "slug": "dasun-shanaka",
+        "role": "batsman",
+        "country": "Sri Lanka",
+        "countryCode": "lk"
+      },
+      {
+        "name": "Brijesh Sharma",
+        "externalId": 90896,
+        "slug": "brijesh-sharma",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Sandeep Sharma",
+        "externalId": 15660,
+        "slug": "sandeep-sharma",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Ravi Singh",
+        "externalId": 86608,
+        "slug": "ravi-singh",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Vaibhav Sooryavanshi",
+        "externalId": 83313,
+        "slug": "vaibhav-sooryavanshi",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      }
+    ]
+  },
+  "RCB": {
+    "team": "Royal Challengers Bengaluru",
+    "season": 2026,
+    "source_url": "https://www.iplt20.com/api/bff/cms/teams/royal-challengers-bengaluru?tab=squad",
+    "page_url": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad",
+    "source_type": "official",
+    "announcement_date": "unknown",
+    "verification_date": "2026-11-13",
+    "response_sha256": "3c3b84bc9db86feb6d846cdacabe93420f56d27b90a41371cc266834a484c24a",
+    "players": [
+      {
+        "name": "Jacob Bethell",
+        "externalId": 73907,
+        "slug": "jacob-bethell",
+        "role": "batsman",
+        "country": "England",
+        "countryCode": "gb-eng"
+      },
+      {
+        "name": "Kanishk Chouhan",
+        "externalId": 91255,
+        "slug": "kanishk-chouhan",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Jordan Cox",
+        "externalId": 69894,
+        "slug": "jordan-cox",
+        "role": "batsman",
+        "country": "England",
+        "countryCode": "gb-eng"
+      },
+      {
+        "name": "Rasikh Dar",
+        "externalId": 68859,
+        "slug": "rasikh-dar",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Tim David",
+        "externalId": 67369,
+        "slug": "tim-david",
+        "role": "batsman",
+        "country": "Australia",
+        "countryCode": "au"
+      },
+      {
+        "name": "Yash Dayal",
+        "externalId": 68716,
+        "slug": "yash-dayal",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Satvik Deswal",
+        "externalId": 91380,
+        "slug": "satvik-deswal",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Jacob Duffy",
+        "externalId": 15670,
+        "slug": "jacob-duffy",
+        "role": "bowler",
+        "country": "New Zealand",
+        "countryCode": "nz"
+      },
+      {
+        "name": "Richard Gleeson",
+        "externalId": 27711,
+        "slug": "richard-gleeson",
+        "role": "bowler",
+        "country": "England",
+        "countryCode": "gb-eng"
+      },
+      {
+        "name": "Josh Hazlewood",
+        "externalId": 14327,
+        "slug": "josh-hazlewood",
+        "role": "bowler",
+        "country": "Australia",
+        "countryCode": "au"
+      },
+      {
+        "name": "Venkatesh Iyer",
+        "externalId": 34170,
+        "slug": "venkatesh-iyer",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Virat Kohli",
+        "externalId": 13144,
+        "slug": "virat-kohli",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Bhuvneshwar Kumar",
+        "externalId": 12690,
+        "slug": "bhuvneshwar-kumar",
+        "role": "allrounder",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Vihaan Malhotra",
+        "externalId": 86477,
+        "slug": "vihaan-malhotra",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Vicky Ostwal",
+        "externalId": 76210,
+        "slug": "vicky-ostwal",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Devdutt Padikkal",
+        "externalId": 68292,
+        "slug": "devdutt-padikkal",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Krunal Pandya",
+        "externalId": 20456,
+        "slug": "krunal-pandya",
+        "role": "allrounder",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Rajat Patidar",
+        "externalId": 29333,
+        "slug": "rajat-patidar",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Phil Salt",
+        "externalId": 28502,
+        "slug": "phil-salt",
+        "role": "batsman",
+        "country": "England",
+        "countryCode": "gb-eng"
+      },
+      {
+        "name": "Jitesh Sharma",
+        "externalId": 20033,
+        "slug": "jitesh-sharma",
+        "role": "wicketkeeper",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Suyash Sharma",
+        "externalId": 80525,
+        "slug": "suyash-sharma",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Romario Shepherd",
+        "externalId": 58377,
+        "slug": "romario-shepherd",
+        "role": "allrounder",
+        "country": "West Indies",
+        "countryCode": "wi"
+      },
+      {
+        "name": "Abhinandan Singh",
+        "externalId": 86886,
+        "slug": "abhinandan-singh",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Swapnil Singh",
+        "externalId": 20729,
+        "slug": "swapnil-singh",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Nuwan Thushara",
+        "externalId": 51461,
+        "slug": "nuwan-thushara",
+        "role": "bowler",
+        "country": "Sri Lanka",
+        "countryCode": "lk"
+      },
+      {
+        "name": "Mangesh Yadav",
+        "externalId": 90854,
+        "slug": "mangesh-yadav",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      }
+    ]
+  },
+  "SRH": {
+    "team": "Sunrisers Hyderabad",
+    "season": 2026,
+    "source_url": "https://www.iplt20.com/api/bff/cms/teams/sunrisers-hyderabad?tab=squad",
+    "page_url": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad",
+    "source_type": "official",
+    "announcement_date": "unknown",
+    "verification_date": "2026-11-13",
+    "response_sha256": "e2f260f5b2374de8417f1d1b204b4b05c7ee6e9b23a31c38fab48e5dfcb513a8",
+    "players": [
+      {
+        "name": "RS Ambrish",
+        "externalId": 90360,
+        "slug": "rs-ambrish",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Zeeshan Ansari",
+        "externalId": 20236,
+        "slug": "zeeshan-ansari",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Salil Arora",
+        "externalId": 72140,
+        "slug": "salil-arora",
+        "role": "wicketkeeper",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Brydon Carse",
+        "externalId": 16178,
+        "slug": "brydon-carse",
+        "role": "allrounder",
+        "country": "England",
+        "countryCode": "gb-eng"
+      },
+      {
+        "name": "Gerald Coetzee",
+        "externalId": 66452,
+        "slug": "gerald-coetzee",
+        "role": "bowler",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Pat Cummins",
+        "externalId": 14153,
+        "slug": "pat-cummins",
+        "role": "bowler",
+        "country": "Australia",
+        "countryCode": "au"
+      },
+      {
+        "name": "Eshan Malinga",
+        "externalId": 77440,
+        "slug": "eshan-malinga",
+        "role": "bowler",
+        "country": "Sri Lanka",
+        "countryCode": "lk"
+      },
+      {
+        "name": "Harsh Dubey",
+        "externalId": 74025,
+        "slug": "harsh-dubey",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Jack Edwards",
+        "externalId": 65954,
+        "slug": "jack-edwards",
+        "role": "allrounder",
+        "country": "Australia",
+        "countryCode": "au"
+      },
+      {
+        "name": "Krains Fuletra",
+        "externalId": 88265,
+        "slug": "krains-fuletra",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Travis Head",
+        "externalId": 21033,
+        "slug": "travis-head",
+        "role": "batsman",
+        "country": "Australia",
+        "countryCode": "au"
+      },
+      {
+        "name": "Praful Hinge",
+        "externalId": 87731,
+        "slug": "praful-hinge",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Ishan Kishan",
+        "externalId": 20227,
+        "slug": "ishan-kishan",
+        "role": "wicketkeeper",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Heinrich Klaasen",
+        "externalId": 23673,
+        "slug": "heinrich-klaasen",
+        "role": "wicketkeeper",
+        "country": "South Africa",
+        "countryCode": "za"
+      },
+      {
+        "name": "Amit Kumar",
+        "externalId": 94972,
+        "slug": "amit-kumar",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Shivang Kumar",
+        "externalId": 90837,
+        "slug": "shivang-kumar",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Liam Livingstone",
+        "externalId": 23875,
+        "slug": "liam-livingstone",
+        "role": "batsman",
+        "country": "England",
+        "countryCode": "gb-eng"
+      },
+      {
+        "name": "Dilshan Madushanka",
+        "externalId": 69841,
+        "slug": "dilshan-madushanka",
+        "role": "bowler",
+        "country": "Sri Lanka",
+        "countryCode": "lk"
+      },
+      {
+        "name": "Shivam Mavi",
+        "externalId": 65553,
+        "slug": "shivam-mavi",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Kamindu Mendis",
+        "externalId": 26488,
+        "slug": "kamindu-mendis",
+        "role": "batsman",
+        "country": "Sri Lanka",
+        "countryCode": "lk"
+      },
+      {
+        "name": "Nitish Kumar Reddy",
+        "externalId": 74028,
+        "slug": "nitish-kumar-reddy",
+        "role": "allrounder",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Harshal Patel",
+        "externalId": 18000,
+        "slug": "harshal-patel",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "David Payne",
+        "externalId": 11256,
+        "slug": "david-payne",
+        "role": "bowler",
+        "country": "England",
+        "countryCode": "gb-eng"
+      },
+      {
+        "name": "Sakib Hussain",
+        "externalId": 78832,
+        "slug": "sakib-hussain",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Abhishek Sharma",
+        "externalId": 65346,
+        "slug": "abhishek-sharma",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Ravichandran Smaran",
+        "externalId": 83039,
+        "slug": "ravichandran-smaran",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Onkar Tarmale",
+        "externalId": 90418,
+        "slug": "onkar-tarmale",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Jaydev Unadkat",
+        "externalId": 15271,
+        "slug": "jaydev-unadkat",
+        "role": "bowler",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Aniket Verma",
+        "externalId": 87977,
+        "slug": "aniket-verma",
+        "role": "batsman",
+        "country": "India",
+        "countryCode": "in"
+      }
+    ]
+  }
+}

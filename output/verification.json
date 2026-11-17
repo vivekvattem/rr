@@ -1,0 +1,10 @@
+{
+  "static": "passed",
+  "pdf_pages": 9,
+  "browser": {
+    "errors": [],
+    "requests": [
+      "file:///Users/vivekvattem/Desktop/rr/rr_auction_dashboard.html"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "snapshot_date": "2026-11-13",
+  "primary_submission": "output/pdf/rr_methodology_rankings.pdf",
+  "optional_format": "rr_auction_dashboard.html",
+  "dropdown_entry_file": "unstop_rankings.txt",
+  "rankings_changed": true,
+  "ranking_change_reason": "Retirement-only exclusions removed following organiser clarification and user-confirmed dropdown eligibility.",
+  "scoring_changed": false,
+  "reproducible_scoring_error_found": false,
+  "verified_dropdown_exclusion_found": false,
+  "dropdown_access": "User confirmed retired players are included in the listing; the complete option list was not independently inspected.",
+  "rankings_sha256": "b3cf7b0515c53b9255973f2ecb65d5beee94b4c8331e9d27eb3974f67a23496b",
+  "reproducibility_checks": [
+    "Original input file hashes unchanged",
+    "Supplementary pooled A/O match existing selected-player outputs",
+    "Rebuilt IPL raw scores match existing IPL scenario outputs",
+    "One worked pressure state recomputed from earlier deliveries",
+    "Official ranking SHA-256 unchanged"
+  ],
+  "recommendation_changes": {
+    "Shashank Singh": "Conditional No. 6 depth target; phase checks narrow the pure-death claim; Jurel No. 3 refines RR fit.",
+    "Avesh Khan": "Backup only for provisional overs 17 and 19; attacking middle-over upgrade withdrawn. Compare Bhuvneshwar rather than infer superiority from IPL-only rank 3."
+  },
+  "review_judgments": [
+    "Whether RR needs Indian No. 6 flexibility after retention",
+    "Whether Avesh or Bhuvneshwar fits reserve late-over needs better",
+    "Whether the pressure definition and historical mixed-league evidence justify the decision, with dropdown eligibility still to check"
+  ]
+}

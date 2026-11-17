@@ -1,0 +1,29 @@
+SupeRR Selector Season 2 - Round 1
+Final player rankings
+
+BATTERS
+Rank 1: Suryakumar Yadav
+Rank 2: Dinesh Karthik
+Rank 3: Shreyas Iyer
+Rank 4: Mark Chapman
+Rank 5: Tim David
+Rank 6: Heinrich Klaasen
+Rank 7: Shashank Singh
+Rank 8: Nitish Rana
+Rank 9: Nicholas Pooran
+Rank 10: Mohammad Nabi
+
+BOWLERS
+Rank 1: Mustafizur Rahman
+Rank 2: Rashid Khan
+Rank 3: Lockie Ferguson
+Rank 4: Sunil Narine
+Rank 5: Varun Chakravarthy
+Rank 6: Matheesha Pathirana
+Rank 7: Taskin Ahmed
+Rank 8: Mitchell Santner
+Rank 9: Josh Hazlewood
+Rank 10: Kuldeep Yadav
+
+Enter each list in rank order, using the matching names in the Unstop dropdowns.
+Methodology report: output/pdf/rr_methodology_rankings.pdf

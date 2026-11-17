@@ -1,0 +1,6 @@
+{
+  "as_of": "2026-11-13",
+  "policy": "Rank all supplied players who meet the performance sample rules, including retired players. Retirement, franchise retention and auction availability do not exclude historical candidates.",
+  "policy_evidence": "data/reference/historical_eligibility_policy.json",
+  "excluded": []
+}

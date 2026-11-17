@@ -1,0 +1,63 @@
+{
+  "snapshot_date": "2026-11-13",
+  "rankings_changed": false,
+  "changes": [
+    {
+      "player_id": 2756,
+      "name": "Shashank Singh",
+      "before": "Conditional finishing priority",
+      "after": "PBKS 2026; target only if released",
+      "impact": "Narrowed to Indian No. 6 depth, entering around overs 11-15; negative IPL death lift limits the death-specialist claim. Tewatia remains a conditional comparison/fallback."
+    },
+    {
+      "player_id": 3653,
+      "name": "Avesh Khan",
+      "before": "Role-led middle/death priority",
+      "after": "LSG 2026; target only if released",
+      "impact": "Downgraded to backup for provisional overs 17 and 19. Remove middle-over upgrade claim; IPL phase evidence and Bhuvneshwar comparison do not establish a superior first-choice buy."
+    },
+    {
+      "player_id": 4246,
+      "name": "Nitish Rana",
+      "before": "Availability unconfirmed",
+      "after": "DC 2026; target only if released",
+      "impact": "Monitor DC release; Tilak is a conditional MI fallback."
+    },
+    {
+      "player_id": 4692,
+      "name": "Lockie Ferguson",
+      "before": "Availability unconfirmed",
+      "after": "PBKS 2026; target only if released",
+      "impact": "Monitor PBKS release; Hazlewood is the conditional pace fallback."
+    },
+    {
+      "player_id": 4373,
+      "name": "Mustafizur Rahman",
+      "before": "Reported registration, clearance unconfirmed",
+      "after": "KKR 2026 release; 2027 listing/clearance unconfirmed",
+      "impact": "Remain clearance-first, pursue only if officially listed; Boult is a conditional left-arm alternative."
+    },
+    {
+      "player_id": 3374,
+      "name": "Mark Chapman",
+      "before": "Eligibility and registration unconfirmed",
+      "after": "IPL franchise unverified; pursue only if listed",
+      "impact": "Scouting only, pursue if listed; Miller offers IPL experience but weaker pressure lift."
+    },
+    {
+      "player_id": 3644,
+      "name": "Kuldeep Yadav",
+      "before": "No explicit franchise commitment note",
+      "after": "LSG 2027 committed; unavailable",
+      "impact": "Keep bowling rank 10; unavailable for auction acquisition following official LSG trade."
+    },
+    {
+      "player_id": 4391,
+      "name": "Liam Livingstone",
+      "before": "No explicit franchise commitment note",
+      "after": "CSK 2027 committed; unavailable",
+      "impact": "Not an auction fallback after official CSK trade."
+    }
+  ],
+  "no_priority_removed": "None of the original six target cards has a verified 2027 commitment or IPL retirement. Their acquisition gates are now explicit. No target is verified officially listed."
+}

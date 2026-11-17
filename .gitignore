@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+tmp/
+*.csv
+!output/*_all.csv
+!output/*_top10.csv
+!output/competition_coverage.csv
+!output/included_seasons.csv
+!data/reference/*.csv
+.DS_Store

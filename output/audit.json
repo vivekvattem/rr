@@ -1,0 +1,1872 @@
+{
+  "as_of": "2026-11-13",
+  "files": {
+    "competitions": {
+      "rows": 141,
+      "columns": [
+        "comp_id",
+        "comp_name",
+        "match_format",
+        "season"
+      ],
+      "nulls": {
+        "comp_id": 0,
+        "comp_name": 0,
+        "match_format": 0,
+        "season": 0
+      },
+      "sha256": "507ceb7189f972d4e4f299ddcfc97f3c3247af1913f6291106f161fa8353fd9b"
+    },
+    "teams": {
+      "rows": 353,
+      "columns": [
+        "comp_id",
+        "team_id",
+        "team_name"
+      ],
+      "nulls": {
+        "comp_id": 0,
+        "team_id": 0,
+        "team_name": 0
+      },
+      "sha256": "a65e5922a9b3bf49247b24fc9471782e700efb31f8dcc5042923238b87c50a5d"
+    },
+    "matches": {
+      "rows": 883,
+      "columns": [
+        "match_id",
+        "comp_id",
+        "match_number",
+        "match_date",
+        "stage",
+        "venue_id",
+        "venue_country",
+        "home_team_id",
+        "home_team",
+        "away_team_id",
+        "away_team",
+        "home_team_captain_id",
+        "away_team_captain_id",
+        "toss_win_team_id",
+        "toss_opted",
+        "man_of_the_match",
+        "first_inn_revised_overs",
+        "second_inn_revised_overs",
+        "revised_target",
+        "knock_out",
+        "win_team_id",
+        "result"
+      ],
+      "nulls": {
+        "match_id": 0,
+        "comp_id": 0,
+        "match_number": 0,
+        "match_date": 0,
+        "stage": 0,
+        "venue_id": 0,
+        "venue_country": 0,
+        "home_team_id": 0,
+        "home_team": 0,
+        "away_team_id": 0,
+        "away_team": 0,
+        "home_team_captain_id": 44,
+        "away_team_captain_id": 45,
+        "toss_win_team_id": 15,
+        "toss_opted": 15,
+        "man_of_the_match": 0,
+        "first_inn_revised_overs": 858,
+        "second_inn_revised_overs": 858,
+        "revised_target": 860,
+        "knock_out": 0,
+        "win_team_id": 41,
+        "result": 0
+      },
+      "sha256": "bb100ab84b8b9a15160c1f2315cf675210131a30e779ec5079fd5403dcf56eef"
+    },
+    "ball_by_ball": {
+      "rows": 200999,
+      "columns": [
+        "match_id",
+        "innings",
+        "overid",
+        "over_ball_num",
+        "innings_ball_num",
+        "batting_team_id",
+        "bowling_team_id",
+        "striker_id",
+        "striker_name",
+        "non_striker_id",
+        "non_striker_name",
+        "bowler_id",
+        "bowler_name",
+        "batting_type",
+        "bowling_type",
+        "batting_order",
+        "runs",
+        "is_four",
+        "is_six",
+        "is_wicket",
+        "dismissal_type_id",
+        "dismissal_type",
+        "dismissed_player_id",
+        "extras_type",
+        "extras1_runs",
+        "extras_2_runs",
+        "pace_or_spin",
+        "bowl_speed",
+        "stroke",
+        "delivery_style",
+        "over_or_around",
+        "on_or_off",
+        "delivery_ist_time"
+      ],
+      "nulls": {
+        "match_id": 0,
+        "innings": 0,
+        "overid": 0,
+        "over_ball_num": 0,
+        "innings_ball_num": 0,
+        "batting_team_id": 0,
+        "bowling_team_id": 0,
+        "striker_id": 0,
+        "striker_name": 0,
+        "non_striker_id": 0,
+        "non_striker_name": 0,
+        "bowler_id": 0,
+        "bowler_name": 0,
+        "batting_type": 0,
+        "bowling_type": 0,
+        "batting_order": 0,
+        "runs": 0,
+        "is_four": 0,
+        "is_six": 0,
+        "is_wicket": 0,
+        "dismissal_type_id": 190118,
+        "dismissal_type": 190118,
+        "dismissed_player_id": 190107,
+        "extras_type": 189167,
+        "extras1_runs": 0,
+        "extras_2_runs": 0,
+        "pace_or_spin": 0,
+        "bowl_speed": 0,
+        "stroke": 6158,
+        "delivery_style": 391,
+        "over_or_around": 407,
+        "on_or_off": 0,
+        "delivery_ist_time": 0
+      },
+      "sha256": "01e2b4379edfbab6a6e456d304cb3c70f554cb312ef93d9588f3f32a82cb396e"
+    },
+    "competition_team_player_mapping": {
+      "rows": 6413,
+      "columns": [
+        "comp_id",
+        "comp_name",
+        "team_id",
+        "team_name",
+        "player_id",
+        "player_name"
+      ],
+      "nulls": {
+        "comp_id": 0,
+        "comp_name": 0,
+        "team_id": 0,
+        "team_name": 0,
+        "player_id": 0,
+        "player_name": 0
+      },
+      "sha256": "1ded4e42a933618572d6e2c3a521c3257eb1844fab4456d567d77cbb2d3bbb12"
+    },
+    "playing_eleven": {
+      "rows": 28381,
+      "columns": [
+        "match_id",
+        "team_id",
+        "player_id",
+        "batting_order",
+        "is_played",
+        "is_captain",
+        "is_wk",
+        "is_impact",
+        "is_impact_off"
+      ],
+      "nulls": {
+        "match_id": 0,
+        "team_id": 0,
+        "player_id": 0,
+        "batting_order": 8678,
+        "is_played": 0,
+        "is_captain": 8667,
+        "is_wk": 8667,
+        "is_impact": 0,
+        "is_impact_off": 0
+      },
+      "sha256": "7517c73722a28d5d61c808ccf0cbed315a8780586d02e946eb9a7f5daf011c27"
+    }
+  },
+  "joins": {
+    "matches_duplicate_keys": 0,
+    "competitions_duplicate_keys": 0,
+    "teams_duplicate_keys": 0,
+    "mapping_duplicate_keys": 0,
+    "xi_duplicate_keys": 40,
+    "unmatched_match_deliveries": 0,
+    "unmatched_competition_deliveries": 0,
+    "striker_mapping_unmatched_deliveries": 0,
+    "striker_xi_unmatched_deliveries": 83,
+    "non_striker_mapping_unmatched_deliveries": 0,
+    "non_striker_xi_unmatched_deliveries": 98,
+    "bowler_mapping_unmatched_deliveries": 0,
+    "bowler_xi_unmatched_deliveries": 30,
+    "batting_team_id_unmatched_deliveries": 0,
+    "bowling_team_id_unmatched_deliveries": 0,
+    "delivery_count_before": 200999,
+    "delivery_count_after": 200999
+  },
+  "metadata_matches_without_deliveries": [
+    31281,
+    31284,
+    31288,
+    32610,
+    32612,
+    32622,
+    36210,
+    36564,
+    38797,
+    40761,
+    41502,
+    41503,
+    42030,
+    46008,
+    48513,
+    50189
+  ],
+  "metadata_competitions_without_matches": [
+    {
+      "comp_id": 3405,
+      "comp_name": "Afghanistan v Sri Lanka T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026"
+    },
+    {
+      "comp_id": 3473,
+      "comp_name": "United Arab Emirates in Nepal T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026"
+    },
+    {
+      "comp_id": 2940,
+      "comp_name": "India in Bangladesh T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025"
+    }
+  ],
+  "coverage": [
+    {
+      "comp_name": "Afghanistan in Bangladesh T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 457,
+      "matches": 2,
+      "start": "2023-07-14",
+      "end": "2023-07-16"
+    },
+    {
+      "comp_name": "Afghanistan in India T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 712,
+      "matches": 3,
+      "start": "2024-01-11",
+      "end": "2024-01-17"
+    },
+    {
+      "comp_name": "Afghanistan in Ireland T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 1017,
+      "matches": 5,
+      "start": "2022-08-09",
+      "end": "2022-08-17"
+    },
+    {
+      "comp_name": "Afghanistan in Sri Lanka T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 727,
+      "matches": 3,
+      "start": "2024-02-17",
+      "end": "2024-02-21"
+    },
+    {
+      "comp_name": "Afghanistan in Zimbabwe T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 756,
+      "matches": 3,
+      "start": "2022-06-11",
+      "end": "2022-06-14"
+    },
+    {
+      "comp_name": "Afghanistan in Zimbabwe T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 740,
+      "matches": 3,
+      "start": "2024-12-09",
+      "end": "2024-12-12"
+    },
+    {
+      "comp_name": "Afghanistan in Zimbabwe T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 702,
+      "matches": 3,
+      "start": "2025-10-29",
+      "end": "2025-11-02"
+    },
+    {
+      "comp_name": "Afghanistan v Bangladesh T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 713,
+      "matches": 3,
+      "start": "2025-10-02",
+      "end": "2025-10-05"
+    },
+    {
+      "comp_name": "Afghanistan v Ireland T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 723,
+      "matches": 3,
+      "start": "2024-03-15",
+      "end": "2024-03-18"
+    },
+    {
+      "comp_name": "Afghanistan v Pakistan T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 714,
+      "matches": 3,
+      "start": "2023-03-24",
+      "end": "2023-03-27"
+    },
+    {
+      "comp_name": "Afghanistan v West Indies T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 742,
+      "matches": 3,
+      "start": "2026-01-19",
+      "end": "2026-01-22"
+    },
+    {
+      "comp_name": "Afghanistan v Zimbabwe T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 649,
+      "matches": 3,
+      "start": "2026-10-27",
+      "end": "2026-11-01"
+    },
+    {
+      "comp_name": "Afghanistan vs India in India T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 640,
+      "matches": 3,
+      "start": "2026-09-13",
+      "end": "2026-09-17"
+    },
+    {
+      "comp_name": "Asia Cup 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 4437,
+      "matches": 19,
+      "start": "2025-09-09",
+      "end": "2025-09-28"
+    },
+    {
+      "comp_name": "Asia Cup Rising Stars 2025",
+      "match_format": "T20",
+      "season": "2025",
+      "deliveries": 3466,
+      "matches": 15,
+      "start": "2025-11-14",
+      "end": "2025-11-23"
+    },
+    {
+      "comp_name": "Asia Cup T20 Qualifiers 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 1379,
+      "matches": 6,
+      "start": "2022-08-20",
+      "end": "2022-08-24"
+    },
+    {
+      "comp_name": "Australia in Bangladesh T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 669,
+      "matches": 3,
+      "start": "2026-06-17",
+      "end": "2026-06-21"
+    },
+    {
+      "comp_name": "Australia in England T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 489,
+      "matches": 2,
+      "start": "2024-09-11",
+      "end": "2024-09-13"
+    },
+    {
+      "comp_name": "Australia in India T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 590,
+      "matches": 3,
+      "start": "2022-09-20",
+      "end": "2022-09-25"
+    },
+    {
+      "comp_name": "Australia in India T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 1271,
+      "matches": 5,
+      "start": "2023-11-23",
+      "end": "2023-12-03"
+    },
+    {
+      "comp_name": "Australia in New Zealand T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 618,
+      "matches": 3,
+      "start": "2024-02-21",
+      "end": "2024-02-25"
+    },
+    {
+      "comp_name": "Australia in New Zealand T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 477,
+      "matches": 3,
+      "start": "2025-10-01",
+      "end": "2025-10-04"
+    },
+    {
+      "comp_name": "Australia in Pakistan T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 694,
+      "matches": 3,
+      "start": "2026-01-29",
+      "end": "2026-02-01"
+    },
+    {
+      "comp_name": "Australia in Scotland T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 635,
+      "matches": 3,
+      "start": "2024-09-04",
+      "end": "2024-09-07"
+    },
+    {
+      "comp_name": "Australia in South Africa T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 668,
+      "matches": 3,
+      "start": "2023-08-30",
+      "end": "2023-09-03"
+    },
+    {
+      "comp_name": "Australia in Sri Lanka T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 684,
+      "matches": 3,
+      "start": "2022-06-07",
+      "end": "2022-06-11"
+    },
+    {
+      "comp_name": "Australia in West Indies T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 1185,
+      "matches": 5,
+      "start": "2025-07-20",
+      "end": "2025-07-28"
+    },
+    {
+      "comp_name": "Bangladesh in India T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 694,
+      "matches": 3,
+      "start": "2024-10-06",
+      "end": "2024-10-12"
+    },
+    {
+      "comp_name": "Bangladesh in New Zealand T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 519,
+      "matches": 3,
+      "start": "2023-12-27",
+      "end": "2023-12-31"
+    },
+    {
+      "comp_name": "Bangladesh in Pakistan T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 712,
+      "matches": 3,
+      "start": "2025-05-28",
+      "end": "2025-06-01"
+    },
+    {
+      "comp_name": "Bangladesh in Sri Lanka T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 675,
+      "matches": 3,
+      "start": "2025-07-10",
+      "end": "2025-07-16"
+    },
+    {
+      "comp_name": "Bangladesh in United Arab Emirates T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 496,
+      "matches": 2,
+      "start": "2022-09-25",
+      "end": "2022-09-27"
+    },
+    {
+      "comp_name": "Bangladesh in United Arab Emirates T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 752,
+      "matches": 3,
+      "start": "2025-05-17",
+      "end": "2025-05-21"
+    },
+    {
+      "comp_name": "Bangladesh in West Indies T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 587,
+      "matches": 3,
+      "start": "2022-07-02",
+      "end": "2022-07-07"
+    },
+    {
+      "comp_name": "Bangladesh in West Indies T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 718,
+      "matches": 3,
+      "start": "2024-12-16",
+      "end": "2024-12-20"
+    },
+    {
+      "comp_name": "Bangladesh in Zimbabwe T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 736,
+      "matches": 3,
+      "start": "2022-07-30",
+      "end": "2022-08-02"
+    },
+    {
+      "comp_name": "Bangladesh in Zimbabwe T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 738,
+      "matches": 3,
+      "start": "2026-07-15",
+      "end": "2026-07-19"
+    },
+    {
+      "comp_name": "England in Australia T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 609,
+      "matches": 3,
+      "start": "2022-10-09",
+      "end": "2022-10-14"
+    },
+    {
+      "comp_name": "England in Bangladesh T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 723,
+      "matches": 3,
+      "start": "2023-03-09",
+      "end": "2023-03-14"
+    },
+    {
+      "comp_name": "England in India T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 1131,
+      "matches": 5,
+      "start": "2025-01-22",
+      "end": "2025-02-02"
+    },
+    {
+      "comp_name": "England in Ireland T20I series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 467,
+      "matches": 2,
+      "start": "2025-09-17",
+      "end": "2025-09-21"
+    },
+    {
+      "comp_name": "England in New Zealand T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 391,
+      "matches": 3,
+      "start": "2025-10-18",
+      "end": "2025-10-23"
+    },
+    {
+      "comp_name": "England in Pakistan T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 1678,
+      "matches": 7,
+      "start": "2022-09-20",
+      "end": "2022-10-02"
+    },
+    {
+      "comp_name": "England in Sri Lanka T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 668,
+      "matches": 3,
+      "start": "2026-01-30",
+      "end": "2026-02-03"
+    },
+    {
+      "comp_name": "England in West Indies T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 1235,
+      "matches": 5,
+      "start": "2022-01-22",
+      "end": "2022-01-30"
+    },
+    {
+      "comp_name": "England in West Indies T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 1192,
+      "matches": 5,
+      "start": "2023-12-13",
+      "end": "2023-12-22"
+    },
+    {
+      "comp_name": "England in West Indies T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 973,
+      "matches": 5,
+      "start": "2024-11-10",
+      "end": "2024-11-18"
+    },
+    {
+      "comp_name": "IPL 2022",
+      "match_format": "T20",
+      "season": "2022",
+      "deliveries": 17909,
+      "matches": 74,
+      "start": "2022-03-26",
+      "end": "2022-05-29"
+    },
+    {
+      "comp_name": "IPL 2023",
+      "match_format": "T20",
+      "season": "2023",
+      "deliveries": 17863,
+      "matches": 74,
+      "start": "2023-03-31",
+      "end": "2023-05-29"
+    },
+    {
+      "comp_name": "IPL 2024",
+      "match_format": "T20",
+      "season": "2024",
+      "deliveries": 17103,
+      "matches": 71,
+      "start": "2024-03-22",
+      "end": "2024-05-26"
+    },
+    {
+      "comp_name": "IPL 2025",
+      "match_format": "T20",
+      "season": "2025",
+      "deliveries": 17285,
+      "matches": 74,
+      "start": "2025-03-22",
+      "end": "2025-06-03"
+    },
+    {
+      "comp_name": "IPL 2026",
+      "match_format": "T20",
+      "season": "2026",
+      "deliveries": 17527,
+      "matches": 74,
+      "start": "2026-03-28",
+      "end": "2026-05-31"
+    },
+    {
+      "comp_name": "India in Australia T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 758,
+      "matches": 5,
+      "start": "2025-10-29",
+      "end": "2025-11-08"
+    },
+    {
+      "comp_name": "India in England T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 733,
+      "matches": 3,
+      "start": "2022-07-07",
+      "end": "2022-07-10"
+    },
+    {
+      "comp_name": "India in England T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 1032,
+      "matches": 5,
+      "start": "2026-07-01",
+      "end": "2026-07-11"
+    },
+    {
+      "comp_name": "India in Ireland T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 399,
+      "matches": 2,
+      "start": "2022-06-26",
+      "end": "2022-06-28"
+    },
+    {
+      "comp_name": "India in Ireland T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 421,
+      "matches": 2,
+      "start": "2023-08-18",
+      "end": "2023-08-20"
+    },
+    {
+      "comp_name": "India in Ireland T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 496,
+      "matches": 2,
+      "start": "2026-06-26",
+      "end": "2026-06-28"
+    },
+    {
+      "comp_name": "India in Japan T20I Match 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 64,
+      "matches": 1,
+      "start": "2026-09-22",
+      "end": "2026-09-22"
+    },
+    {
+      "comp_name": "India in New Zealand T20I Series 2022/23",
+      "match_format": "T20I",
+      "season": "2022/23",
+      "deliveries": 420,
+      "matches": 2,
+      "start": "2022-11-20",
+      "end": "2022-11-22"
+    },
+    {
+      "comp_name": "India in New Zealand T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 1209,
+      "matches": 5,
+      "start": "2026-10-22",
+      "end": "2026-11-01"
+    },
+    {
+      "comp_name": "India in South Africa T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 418,
+      "matches": 2,
+      "start": "2023-12-12",
+      "end": "2023-12-14"
+    },
+    {
+      "comp_name": "India in South Africa T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 990,
+      "matches": 4,
+      "start": "2024-11-08",
+      "end": "2024-11-15"
+    },
+    {
+      "comp_name": "India in Sri Lanka T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 667,
+      "matches": 3,
+      "start": "2024-07-27",
+      "end": "2024-07-30"
+    },
+    {
+      "comp_name": "India in West Indies T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 1212,
+      "matches": 5,
+      "start": "2022-07-29",
+      "end": "2022-08-07"
+    },
+    {
+      "comp_name": "India in West Indies T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 1195,
+      "matches": 5,
+      "start": "2023-08-03",
+      "end": "2023-08-13"
+    },
+    {
+      "comp_name": "India in Zimbabwe T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 1193,
+      "matches": 5,
+      "start": "2024-07-06",
+      "end": "2024-07-14"
+    },
+    {
+      "comp_name": "India in Zimbabwe T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 710,
+      "matches": 3,
+      "start": "2026-07-23",
+      "end": "2026-07-26"
+    },
+    {
+      "comp_name": "Ireland in Bangladesh T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 593,
+      "matches": 3,
+      "start": "2023-03-27",
+      "end": "2023-03-31"
+    },
+    {
+      "comp_name": "Ireland in Bangladesh T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 705,
+      "matches": 3,
+      "start": "2025-11-27",
+      "end": "2025-12-02"
+    },
+    {
+      "comp_name": "Ireland in United Arab Emirates T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 494,
+      "matches": 2,
+      "start": "2026-01-29",
+      "end": "2026-01-31"
+    },
+    {
+      "comp_name": "Ireland in Zimbabwe T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 715,
+      "matches": 3,
+      "start": "2023-01-12",
+      "end": "2023-01-15"
+    },
+    {
+      "comp_name": "Ireland in Zimbabwe T20I Series 2023/24",
+      "match_format": "T20I",
+      "season": "2023/24",
+      "deliveries": 739,
+      "matches": 3,
+      "start": "2023-12-07",
+      "end": "2023-12-10"
+    },
+    {
+      "comp_name": "Ireland in Zimbabwe T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 412,
+      "matches": 3,
+      "start": "2025-02-22",
+      "end": "2025-02-25"
+    },
+    {
+      "comp_name": "Ireland v South Africa T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 497,
+      "matches": 2,
+      "start": "2024-09-27",
+      "end": "2024-09-29"
+    },
+    {
+      "comp_name": "Mens T20 Emerging Teams Asia Cup 2024",
+      "match_format": "T20",
+      "season": "2024",
+      "deliveries": 3519,
+      "matches": 15,
+      "start": "2024-10-18",
+      "end": "2024-10-27"
+    },
+    {
+      "comp_name": "Mens Twenty20 Asia Cup 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 3071,
+      "matches": 13,
+      "start": "2022-08-27",
+      "end": "2022-09-11"
+    },
+    {
+      "comp_name": "Nepal v West Indies T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 689,
+      "matches": 3,
+      "start": "2025-09-27",
+      "end": "2025-09-30"
+    },
+    {
+      "comp_name": "Netherlands Tri-Nation T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 1191,
+      "matches": 5,
+      "start": "2024-05-18",
+      "end": "2024-05-24"
+    },
+    {
+      "comp_name": "Netherlands Tri-Nation T20I Series [Aug 2024] 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 1306,
+      "matches": 6,
+      "start": "2024-08-23",
+      "end": "2024-08-28"
+    },
+    {
+      "comp_name": "Netherlands in Bangladesh T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 516,
+      "matches": 3,
+      "start": "2025-08-30",
+      "end": "2025-09-03"
+    },
+    {
+      "comp_name": "New Zealand T20I Tri Series 2022/23",
+      "match_format": "T20I",
+      "season": "2022/23",
+      "deliveries": 1682,
+      "matches": 7,
+      "start": "2022-10-07",
+      "end": "2022-10-14"
+    },
+    {
+      "comp_name": "New Zealand in Bangladesh T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 402,
+      "matches": 2,
+      "start": "2026-04-27",
+      "end": "2026-05-02"
+    },
+    {
+      "comp_name": "New Zealand in England T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 895,
+      "matches": 4,
+      "start": "2023-08-30",
+      "end": "2023-09-05"
+    },
+    {
+      "comp_name": "New Zealand in India T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 701,
+      "matches": 3,
+      "start": "2023-01-27",
+      "end": "2023-02-01"
+    },
+    {
+      "comp_name": "New Zealand in India T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 1148,
+      "matches": 5,
+      "start": "2026-01-21",
+      "end": "2026-01-31"
+    },
+    {
+      "comp_name": "New Zealand in Ireland T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 696,
+      "matches": 3,
+      "start": "2022-07-18",
+      "end": "2022-07-22"
+    },
+    {
+      "comp_name": "New Zealand in Netherlands T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 456,
+      "matches": 2,
+      "start": "2022-08-04",
+      "end": "2022-08-05"
+    },
+    {
+      "comp_name": "New Zealand in Pakistan T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 1082,
+      "matches": 5,
+      "start": "2023-04-14",
+      "end": "2023-04-24"
+    },
+    {
+      "comp_name": "New Zealand in Pakistan T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 943,
+      "matches": 5,
+      "start": "2024-04-18",
+      "end": "2024-04-27"
+    },
+    {
+      "comp_name": "New Zealand in Sri Lanka T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 485,
+      "matches": 2,
+      "start": "2024-11-09",
+      "end": "2024-11-10"
+    },
+    {
+      "comp_name": "New Zealand in United Arab Emirates T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 718,
+      "matches": 3,
+      "start": "2023-08-17",
+      "end": "2023-08-20"
+    },
+    {
+      "comp_name": "New Zealand in West Indies T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 740,
+      "matches": 3,
+      "start": "2022-08-11",
+      "end": "2022-08-15"
+    },
+    {
+      "comp_name": "Pakistan T20I Tri-Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 1665,
+      "matches": 7,
+      "start": "2025-11-17",
+      "end": "2025-11-29"
+    },
+    {
+      "comp_name": "Pakistan in Australia T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 520,
+      "matches": 3,
+      "start": "2024-11-14",
+      "end": "2024-11-18"
+    },
+    {
+      "comp_name": "Pakistan in Bangladesh T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 690,
+      "matches": 3,
+      "start": "2025-07-20",
+      "end": "2025-07-24"
+    },
+    {
+      "comp_name": "Pakistan in England T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 461,
+      "matches": 2,
+      "start": "2024-05-25",
+      "end": "2024-05-30"
+    },
+    {
+      "comp_name": "Pakistan in Ireland T20I series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 713,
+      "matches": 3,
+      "start": "2024-05-10",
+      "end": "2024-05-14"
+    },
+    {
+      "comp_name": "Pakistan in New Zealand T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 1000,
+      "matches": 5,
+      "start": "2025-03-16",
+      "end": "2025-03-26"
+    },
+    {
+      "comp_name": "Pakistan in New Zealand T20I series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 1200,
+      "matches": 5,
+      "start": "2024-01-12",
+      "end": "2024-01-21"
+    },
+    {
+      "comp_name": "Pakistan in South Africa T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 506,
+      "matches": 2,
+      "start": "2024-12-10",
+      "end": "2024-12-13"
+    },
+    {
+      "comp_name": "Pakistan in Sri Lanka T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 376,
+      "matches": 2,
+      "start": "2026-01-07",
+      "end": "2026-01-12"
+    },
+    {
+      "comp_name": "Pakistan in West Indies T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 763,
+      "matches": 3,
+      "start": "2025-07-31",
+      "end": "2025-08-03"
+    },
+    {
+      "comp_name": "Pakistan in Zimbabwe T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 574,
+      "matches": 3,
+      "start": "2024-12-01",
+      "end": "2024-12-05"
+    },
+    {
+      "comp_name": "South Africa in Australia T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 739,
+      "matches": 3,
+      "start": "2025-08-10",
+      "end": "2025-08-16"
+    },
+    {
+      "comp_name": "South Africa in England T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 711,
+      "matches": 3,
+      "start": "2022-07-27",
+      "end": "2022-07-31"
+    },
+    {
+      "comp_name": "South Africa in England T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 312,
+      "matches": 2,
+      "start": "2025-09-10",
+      "end": "2025-09-12"
+    },
+    {
+      "comp_name": "South Africa in India T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 972,
+      "matches": 5,
+      "start": "2022-06-09",
+      "end": "2022-06-19"
+    },
+    {
+      "comp_name": "South Africa in India T20I Series 2022/23",
+      "match_format": "T20I",
+      "season": "2022/23",
+      "deliveries": 736,
+      "matches": 3,
+      "start": "2022-09-28",
+      "end": "2022-10-04"
+    },
+    {
+      "comp_name": "South Africa in India T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 925,
+      "matches": 4,
+      "start": "2025-12-09",
+      "end": "2025-12-19"
+    },
+    {
+      "comp_name": "South Africa in New Zealand T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 1134,
+      "matches": 5,
+      "start": "2026-03-15",
+      "end": "2026-03-25"
+    },
+    {
+      "comp_name": "South Africa in Pakistan T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 693,
+      "matches": 3,
+      "start": "2025-10-28",
+      "end": "2025-11-01"
+    },
+    {
+      "comp_name": "South Africa in West Indies T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 629,
+      "matches": 3,
+      "start": "2024-08-24",
+      "end": "2024-08-28"
+    },
+    {
+      "comp_name": "South Africa in West Indies T20I Series [May 2024] 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 714,
+      "matches": 3,
+      "start": "2024-05-24",
+      "end": "2024-05-27"
+    },
+    {
+      "comp_name": "South Africa vs Ireland T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 501,
+      "matches": 2,
+      "start": "2022-08-03",
+      "end": "2022-08-05"
+    },
+    {
+      "comp_name": "Sri Lanka in Australia T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 1201,
+      "matches": 5,
+      "start": "2022-02-11",
+      "end": "2022-02-20"
+    },
+    {
+      "comp_name": "Sri Lanka in Bangladesh T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 751,
+      "matches": 3,
+      "start": "2024-03-04",
+      "end": "2024-03-09"
+    },
+    {
+      "comp_name": "Sri Lanka in England T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 632,
+      "matches": 3,
+      "start": "2026-09-15",
+      "end": "2026-09-19"
+    },
+    {
+      "comp_name": "Sri Lanka in India T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 741,
+      "matches": 3,
+      "start": "2023-01-03",
+      "end": "2023-01-07"
+    },
+    {
+      "comp_name": "Sri Lanka in New Zealand T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 717,
+      "matches": 3,
+      "start": "2023-04-02",
+      "end": "2023-04-08"
+    },
+    {
+      "comp_name": "Sri Lanka in New Zealand T20I Series 2024/25",
+      "match_format": "T20I",
+      "season": "2024/25",
+      "deliveries": 754,
+      "matches": 3,
+      "start": "2024-12-28",
+      "end": "2025-01-02"
+    },
+    {
+      "comp_name": "Sri Lanka in Pakistan T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 718,
+      "matches": 3,
+      "start": "2026-10-09",
+      "end": "2026-10-13"
+    },
+    {
+      "comp_name": "Sri Lanka in West Indies T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 734,
+      "matches": 3,
+      "start": "2026-06-12",
+      "end": "2026-06-15"
+    },
+    {
+      "comp_name": "Sri Lanka in Zimbabwe T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 679,
+      "matches": 3,
+      "start": "2025-09-03",
+      "end": "2025-09-07"
+    },
+    {
+      "comp_name": "United Arab Emirates T20I Tri-Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 1721,
+      "matches": 7,
+      "start": "2025-08-29",
+      "end": "2025-09-07"
+    },
+    {
+      "comp_name": "West Indies in Australia T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 504,
+      "matches": 2,
+      "start": "2022-10-05",
+      "end": "2022-10-07"
+    },
+    {
+      "comp_name": "West Indies in Australia T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 756,
+      "matches": 3,
+      "start": "2024-02-09",
+      "end": "2024-02-13"
+    },
+    {
+      "comp_name": "West Indies in Bangladesh T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 722,
+      "matches": 3,
+      "start": "2025-10-27",
+      "end": "2025-11-01"
+    },
+    {
+      "comp_name": "West Indies in England T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 764,
+      "matches": 3,
+      "start": "2025-06-06",
+      "end": "2025-06-10"
+    },
+    {
+      "comp_name": "West Indies in India T20I Series 2022",
+      "match_format": "T20I",
+      "season": "2022",
+      "deliveries": 755,
+      "matches": 3,
+      "start": "2022-02-16",
+      "end": "2022-02-20"
+    },
+    {
+      "comp_name": "West Indies in India T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 1014,
+      "matches": 5,
+      "start": "2026-10-06",
+      "end": "2026-10-17"
+    },
+    {
+      "comp_name": "West Indies in Ireland T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 257,
+      "matches": 1,
+      "start": "2025-06-15",
+      "end": "2025-06-15"
+    },
+    {
+      "comp_name": "West Indies in New Zealand T20I Series 2025",
+      "match_format": "T20I",
+      "season": "2025",
+      "deliveries": 1009,
+      "matches": 5,
+      "start": "2025-11-05",
+      "end": "2025-11-13"
+    },
+    {
+      "comp_name": "West Indies in South Africa T20I Series 2023",
+      "match_format": "T20I",
+      "season": "2023",
+      "deliveries": 646,
+      "matches": 3,
+      "start": "2023-03-25",
+      "end": "2023-03-28"
+    },
+    {
+      "comp_name": "West Indies in South Africa T20I Series 2026",
+      "match_format": "T20I",
+      "season": "2026",
+      "deliveries": 596,
+      "matches": 3,
+      "start": "2026-01-27",
+      "end": "2026-02-01"
+    },
+    {
+      "comp_name": "West Indies in Sri Lanka T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 705,
+      "matches": 3,
+      "start": "2024-10-13",
+      "end": "2024-10-17"
+    },
+    {
+      "comp_name": "Zimbabwe in Bangladesh T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 1198,
+      "matches": 5,
+      "start": "2024-05-03",
+      "end": "2024-05-12"
+    },
+    {
+      "comp_name": "Zimbabwe in Sri Lanka T20I Series 2024",
+      "match_format": "T20I",
+      "season": "2024",
+      "deliveries": 644,
+      "matches": 3,
+      "start": "2024-01-14",
+      "end": "2024-01-18"
+    }
+  ],
+  "extras": [
+    {
+      "extras_type": "Overstep",
+      "deliveries": 576,
+      "bat_runs": 852,
+      "extras1": 576,
+      "extras2": 48
+    },
+    {
+      "extras_type": "Penalty",
+      "deliveries": 1,
+      "bat_runs": 0,
+      "extras1": 5,
+      "extras2": 0
+    },
+    {
+      "extras_type": "byes",
+      "deliveries": 529,
+      "bat_runs": 0,
+      "extras1": 1000,
+      "extras2": 0
+    },
+    {
+      "extras_type": "legbyes",
+      "deliveries": 2748,
+      "bat_runs": 1,
+      "extras1": 3603,
+      "extras2": 0
+    },
+    {
+      "extras_type": "other",
+      "deliveries": 264,
+      "bat_runs": 412,
+      "extras1": 264,
+      "extras2": 35
+    },
+    {
+      "extras_type": "wide",
+      "deliveries": 7714,
+      "bat_runs": 0,
+      "extras1": 9174,
+      "extras2": 0
+    },
+    {
+      "extras_type": "none",
+      "deliveries": 189167,
+      "bat_runs": 268285,
+      "extras1": 1,
+      "extras2": 1
+    }
+  ],
+  "dismissals": [
+    {
+      "dismissal_type": "Bowled",
+      "n": 1775
+    },
+    {
+      "dismissal_type": "Caught",
+      "n": 7557
+    },
+    {
+      "dismissal_type": "Hit Wicket",
+      "n": 17
+    },
+    {
+      "dismissal_type": "LBW",
+      "n": 709
+    },
+    {
+      "dismissal_type": "Obstracting the field",
+      "n": 2
+    },
+    {
+      "dismissal_type": "Obstructing the field",
+      "n": 1
+    },
+    {
+      "dismissal_type": "Retire Out",
+      "n": 6
+    },
+    {
+      "dismissal_type": "RunOut",
+      "n": 600
+    },
+    {
+      "dismissal_type": "Stump",
+      "n": 214
+    },
+    {
+      "dismissal_type": "none",
+      "n": 190118
+    }
+  ],
+  "duplicate_delivery_keys": 0,
+  "non_six_ball_interior_overs": [
+    {
+      "match_id": 14130,
+      "innings": 1,
+      "overid": 14,
+      "legal": 5,
+      "last": 20
+    },
+    {
+      "match_id": 14130,
+      "innings": 2,
+      "overid": 14,
+      "legal": 5,
+      "last": 20
+    },
+    {
+      "match_id": 14164,
+      "innings": 1,
+      "overid": 14,
+      "legal": 5,
+      "last": 20
+    },
+    {
+      "match_id": 41509,
+      "innings": 1,
+      "overid": 12,
+      "legal": 7,
+      "last": 20
+    }
+  ],
+  "retired_or_unknown_nonwickets": 12,
+  "zero_speed_deliveries": 77861,
+  "margin_checks": {
+    "checked": 794,
+    "failed": [
+      {
+        "match_id": 20182,
+        "type": "runs",
+        "expected": 7,
+        "reconstructed": 45
+      },
+      {
+        "match_id": 20190,
+        "type": "wickets",
+        "expected": 6,
+        "reconstructed": 5
+      },
+      {
+        "match_id": 24822,
+        "type": "runs",
+        "expected": 2,
+        "reconstructed": 92
+      }
+    ]
+  },
+  "spotchecks": [
+    {
+      "match_id": 13511,
+      "innings": 1,
+      "total": 103,
+      "wickets": 10,
+      "legal": 118,
+      "rows": 121
+    },
+    {
+      "match_id": 13511,
+      "innings": 2,
+      "total": 104,
+      "wickets": 1,
+      "legal": 103,
+      "rows": 103
+    },
+    {
+      "match_id": 13512,
+      "innings": 1,
+      "total": 171,
+      "wickets": 8,
+      "legal": 120,
+      "rows": 128
+    },
+    {
+      "match_id": 13512,
+      "innings": 2,
+      "total": 170,
+      "wickets": 8,
+      "legal": 120,
+      "rows": 124
+    },
+    {
+      "match_id": 14130,
+      "innings": 1,
+      "total": 167,
+      "wickets": 6,
+      "legal": 119,
+      "rows": 124
+    },
+    {
+      "match_id": 14130,
+      "innings": 2,
+      "total": 130,
+      "wickets": 8,
+      "legal": 119,
+      "rows": 127
+    },
+    {
+      "match_id": 21586,
+      "innings": 1,
+      "total": 214,
+      "wickets": 4,
+      "legal": 120,
+      "rows": 122
+    },
+    {
+      "match_id": 21586,
+      "innings": 2,
+      "total": 171,
+      "wickets": 5,
+      "legal": 90,
+      "rows": 94
+    },
+    {
+      "match_id": 41509,
+      "innings": 1,
+      "total": 170,
+      "wickets": 10,
+      "legal": 119,
+      "rows": 121
+    },
+    {
+      "match_id": 41509,
+      "innings": 2,
+      "total": 173,
+      "wickets": 7,
+      "legal": 102,
+      "rows": 110
+    }
+  ],
+  "exclusions_sequential": [
+    {
+      "reason": "Other T20 competitions",
+      "deliveries": 6985,
+      "matches": 30
+    },
+    {
+      "reason": "Super Over innings 3/4",
+      "deliveries": 26,
+      "matches": 4
+    },
+    {
+      "reason": "Abandoned or no result",
+      "deliveries": 1753,
+      "matches": 24
+    },
+    {
+      "reason": "Any revised target/length or DLS result",
+      "deliveries": 4726,
+      "matches": 28
+    },
+    {
+      "reason": "Unresolved result-margin mismatch",
+      "deliveries": 223,
+      "matches": 1
+    },
+    {
+      "reason": "Incomplete/irregular interior over",
+      "deliveries": 701,
+      "matches": 3
+    },
+    {
+      "reason": "Unclassifiable extras encoding",
+      "deliveries": 496,
+      "matches": 2
+    },
+    {
+      "reason": "Invalid pre-ball state",
+      "deliveries": 0,
+      "matches": 0
+    },
+    {
+      "reason": "Future match date",
+      "deliveries": 0,
+      "matches": 0
+    }
+  ],
+  "included": {
+    "deliveries": 186089,
+    "matches": 779,
+    "start": "2022-01-22",
+    "end": "2026-11-01"
+  },
+  "included_coverage": [
+    {
+      "league": "IPL",
+      "season": "2022",
+      "deliveries": 17439,
+      "matches": 72
+    },
+    {
+      "league": "IPL",
+      "season": "2023",
+      "deliveries": 17084,
+      "matches": 70
+    },
+    {
+      "league": "IPL",
+      "season": "2024",
+      "deliveries": 17103,
+      "matches": 71
+    },
+    {
+      "league": "IPL",
+      "season": "2025",
+      "deliveries": 16555,
+      "matches": 69
+    },
+    {
+      "league": "IPL",
+      "season": "2026",
+      "deliveries": 17116,
+      "matches": 71
+    },
+    {
+      "league": "T20I",
+      "season": "2022",
+      "deliveries": 20654,
+      "matches": 86
+    },
+    {
+      "league": "T20I",
+      "season": "2022/23",
+      "deliveries": 2838,
+      "matches": 12
+    },
+    {
+      "league": "T20I",
+      "season": "2023",
+      "deliveries": 12867,
+      "matches": 54
+    },
+    {
+      "league": "T20I",
+      "season": "2023/24",
+      "deliveries": 739,
+      "matches": 3
+    },
+    {
+      "league": "T20I",
+      "season": "2024",
+      "deliveries": 22739,
+      "matches": 96
+    },
+    {
+      "league": "T20I",
+      "season": "2024/25",
+      "deliveries": 754,
+      "matches": 3
+    },
+    {
+      "league": "T20I",
+      "season": "2025",
+      "deliveries": 25592,
+      "matches": 109
+    },
+    {
+      "league": "T20I",
+      "season": "2026",
+      "deliveries": 14609,
+      "matches": 63
+    }
+  ]
+}

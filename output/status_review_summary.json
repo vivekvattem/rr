@@ -1,0 +1,54 @@
+{
+  "snapshot_date": "2026-11-13",
+  "dataset_players": 1217,
+  "retirement_register_screened": 1217,
+  "official_roster_records": 274,
+  "official_roster_unique_matched": 274,
+  "roster_by_team": {
+    "CSK": 30,
+    "DC": 26,
+    "GT": 27,
+    "KKR": 29,
+    "LSG": 26,
+    "MI": 29,
+    "PBKS": 25,
+    "RR": 27,
+    "RCB": 26,
+    "SRH": 29
+  },
+  "roster_unresolved": [],
+  "alias_or_homonym_reviews": 28,
+  "curated_aliases": 28,
+  "roster_aliases_resolved": 26,
+  "homonyms_resolved": 2,
+  "priority_unique_players": 48,
+  "review_depth_counts": {
+    "official_roster_review": 239,
+    "documented_event_review": 54,
+    "retirement_register_screen_only": 876,
+    "priority_source_review": 48
+  },
+  "dataset_2026_players": 275,
+  "dataset_only_2026_players": [
+    {
+      "player_id": 7095,
+      "name": "Gideon Peters"
+    }
+  ],
+  "documented_retirement_players": 67,
+  "ipl_retirement_confirmed": 29,
+  "official_2027_committed": 10,
+  "official_auction_entries": 0,
+  "unknown_auction_status": 1216,
+  "unknown_ipl_retirement_status": 1188,
+  "unknown_international_retirement_status": 1156,
+  "screen_sources": [
+    "RETIREMENTS_ICC_2023_24",
+    "RETIREMENTS_ICC_2024_25",
+    "RETIREMENTS_2026_DISCOVERY"
+  ],
+  "scope_note": "Every supplied ID was matched against reviewed retirement registers. This is not an individual exhaustive news search for all 1,217 people. Unknown cases are unresolved, not certified active or auction eligible. Official 2026 roster histories include replacements and superseded signings; 2027 commitments require separate announcements.",
+  "auction_list_search": "No official IPL 2027 auction list located in official IPL searches as of this snapshot; a reported registration is not entry.",
+  "rankings_sha256": "b3cf7b0515c53b9255973f2ecb65d5beee94b4c8331e9d27eb3974f67a23496b",
+  "rankings_policy": "Historical rankings include retired players who meet the sample rules. User confirmed retired players appear in the dropdown listing. Availability applies only to the separate acquisition research; exact dropdown aliases remain to be checked."
+}

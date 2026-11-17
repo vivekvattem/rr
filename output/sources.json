@@ -1,0 +1,135 @@
+[
+  {
+    "id": "S1",
+    "title": "Rajasthan Royals: IPL 2026 squad",
+    "date": "Live page; checked 13 Nov 2026",
+    "url": "https://www.rajasthanroyals.com/rr-players",
+    "note": "Current published roster reference, not a 2027 retention list."
+  },
+  {
+    "id": "S2",
+    "title": "RR: Samson/Jadeja/Curran trade",
+    "date": "15 Nov 2025",
+    "url": "https://www.rajasthanroyals.com/latest-news/ipl-2026-trade-rr-ravindra-jadeja-sam-curran-sanju-samson-csk",
+    "note": "Samson left for CSK; Jadeja and Curran moved to RR."
+  },
+  {
+    "id": "S3",
+    "title": "RR: Shanaka replaces Curran",
+    "date": "23 Mar 2026",
+    "url": "https://www.rajasthanroyals.com/latest-news/rr-ipl-2026-squad-dasun-shanaka-replacement-sam-curran",
+    "note": "2026 injury replacement; do not infer either player's 2027 status."
+  },
+  {
+    "id": "S4",
+    "title": "IPL: Player Regulations 2025-27",
+    "date": "28 Sep 2024",
+    "url": "https://www.iplt20.com/news/article/ipl-governing-council-announces-tata-ipl-player-regulations-2025-27",
+    "note": "2027 total salary cap INR157 crore includes pay and match fees; it is not an auction purse. Impact Player continues through 2027. Overseas registration and withdrawal rules apply; the six-player retention/RTM provision concerns the mega-auction."
+  },
+  {
+    "id": "S5",
+    "title": "IPL: 2026 Match Playing Conditions",
+    "date": "2026 edition; checked 13 Nov 2026",
+    "url": "https://documents.iplt20.com/bcci/documents/1774954744346_TATA_IPL_2026_Match_Playing_Conditions.pdf",
+    "note": "Clauses 1.2.5-1.2.6: at most four overseas players in the starting XI and on the field."
+  },
+  {
+    "id": "S6",
+    "title": "Business Standard: 2027 trading and auction rules",
+    "date": "10 Nov 2026",
+    "url": "https://www.business-standard.com/amp/cricket/ipl/ipl-2027-full-list-of-traded-players-proposed-deals-and-trading-rules-126111000200_1.html",
+    "note": "Reported mini-auction rules: no RTM; maximum 25 players and eight overseas; reported 17 Nov retention deadline and 16 Dec auction. Recheck final BCCI circular."
+  },
+  {
+    "id": "S7",
+    "title": "RCB: Dinesh Karthik coaching profile",
+    "date": "Live page checked 13 Nov 2026",
+    "url": "https://www.royalchallengers.com/rcb-squad/dinesh-karthik-0",
+    "note": "Mentor and batting coach; departure from IPL playing duties affects acquisition research only; eligible for historical rankings."
+  },
+  {
+    "id": "S8",
+    "title": "Indian Express: Mustafizur regulatory release",
+    "date": "3 Jan 2026",
+    "url": "https://indianexpress.com/article/sports/cricket/mustafizur-rahman-released-by-kkr-following-bcci-instruction-10453190/",
+    "note": "KKR confirmed his release under BCCI instructions. Treat 2027 clearance separately."
+  },
+  {
+    "id": "S9",
+    "title": "India Today: Mustafizur registration update",
+    "date": "11 Nov 2026",
+    "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2027-mini-auction-bangladesh-mustafizur-rahman-exclusive-kkr-release-3036897-2026-11-11",
+    "note": "Registration process reported; final auction clearance remains unverified."
+  },
+  {
+    "id": "S10",
+    "title": "IPL: 2026 retentions",
+    "date": "15 Nov 2025",
+    "url": "https://www.iplt20.com/news/article/tata-ipl-2026-player-retentions-announced",
+    "note": "Historical maximum squad size 25. This pre-auction list is superseded by later signings and replacements."
+  },
+  {
+    "id": "S11",
+    "title": "Unstop: competition listing and rules",
+    "date": "Public page checked 13 Nov 2026",
+    "url": "https://api.unstop.com/hackathons/superr-selector-season-2-help-shape-rajasthan-royals-ipl-2027-auction-strategy-rajasthan-royals-1792758",
+    "note": "AI assistance is allowed, but final insights must be the participant's own; wholly AI-generated submissions may be disqualified. Public player dropdown options are not exposed."
+  },
+  {
+    "id": "S12",
+    "title": "Indian Express: Russell retires from IPL",
+    "date": "30 Nov 2025",
+    "url": "https://indianexpress.com/article/sports/cricket/andre-russell-retires-ipl-2026-kkr-power-coach-10394368/",
+    "note": "IPL retirement and KKR coaching role; retirement affects acquisition research only; historical eligibility follows sample rules."
+  },
+  {
+    "id": "S13",
+    "title": "Cricbuzz: Ashwin retires from IPL",
+    "date": "27 Aug 2025",
+    "url": "https://m.cricbuzz.com/cricket-news/135418/ravichandran-ashwin-retires-from-ipl",
+    "note": "IPL retirement; retirement affects acquisition research only; historical eligibility follows sample rules."
+  },
+  {
+    "id": "S14",
+    "title": "Business Standard: Mohit Sharma retires",
+    "date": "3 Dec 2025",
+    "url": "https://www.business-standard.com/cricket/news/ipl-veteran-pacer-mohit-sharma-announces-retirement-from-all-formats-of-cricket-125120301388_1.html",
+    "note": "Full cricket retirement; retirement affects acquisition research only; historical eligibility follows sample rules."
+  },
+  {
+    "id": "S15",
+    "title": "IPL: GT v PBKS, Match 17 report",
+    "date": "4 Apr 2024; checked 13 Nov 2026",
+    "url": "https://www.iplt20.com/news/article/tata-ipl-2024-match-17-gt-vs-pbks-match-report",
+    "note": "Public trace for the sole worked match example. The pre-ball state and pressure calculation are reconstructed locally from the supplied data."
+  },
+  {
+    "id": "S16",
+    "title": "New Indian Express: Shashank finishing role",
+    "date": "27 Mar 2026; checked 13 Nov 2026",
+    "url": "https://www.newindianexpress.com/sport/cricket/2026/Mar/27/finisher-shashank-ready-to-deliver-for-punjab-kings",
+    "note": "Reports Shashank normally bats at six or seven. Proposed RR No. 6 and phase deployment are analytical judgments, not a promised squad position."
+  },
+  {
+    "id": "S17",
+    "title": "Indian Express: Jurel explains his No. 3 role",
+    "date": "11 Apr 2026; checked 13 Nov 2026",
+    "url": "https://indianexpress.com/article/sports/ipl/ipl-2026-dhruv-jurel-on-vaibhav-sooryavanshi-win-over-rcb-10630388/lite/",
+    "note": "Jurel describes moving from the lower order to No. 3 in 2026. This refines RR fit toward lower-order depth, not a presumed vacant Samson role."
+  },
+  {
+    "id": "S18",
+    "title": "PBKS: published player roster",
+    "date": "Live page; checked 13 Nov 2026",
+    "url": "https://www.punjabkingsipl.in/players",
+    "note": "Shashank is listed with PBKS. This is not an official 2027 retention/release announcement or auction list."
+  },
+  {
+    "id": "S19",
+    "title": "LSG: published team roster",
+    "date": "Live page; checked 13 Nov 2026",
+    "url": "https://www.lucknowsupergiants.in/team",
+    "note": "Avesh is listed with LSG. This is not an official 2027 retention/release announcement or auction list."
+  }
+]

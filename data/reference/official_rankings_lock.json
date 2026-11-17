@@ -1,0 +1,133 @@
+{
+  "frozen_on": "2026-11-17",
+  "rankings_sha256": "b3cf7b0515c53b9255973f2ecb65d5beee94b4c8331e9d27eb3974f67a23496b",
+  "previous_rankings_sha256": "0adedbcea31a8924d278ac02bb3d6d2dc94113b322d666b8e4a52a4eefa6b4b5",
+  "eligibility_revision": "Retired players eligible under the declared performance sample rules.",
+  "policy_evidence": "data/reference/historical_eligibility_policy.json",
+  "official_lists": {
+    "batters": [
+      {
+        "rank": 1,
+        "player_id": 1699,
+        "name": "Suryakumar Yadav",
+        "pressure_score": 51.66198252400227
+      },
+      {
+        "rank": 2,
+        "player_id": 143,
+        "name": "Dinesh Karthik",
+        "pressure_score": 51.53237128905451
+      },
+      {
+        "rank": 3,
+        "player_id": 3647,
+        "name": "Shreyas Iyer",
+        "pressure_score": 51.518786002358
+      },
+      {
+        "rank": 4,
+        "player_id": 3374,
+        "name": "Mark Chapman",
+        "pressure_score": 51.22578155724971
+      },
+      {
+        "rank": 5,
+        "player_id": 6396,
+        "name": "Tim David",
+        "pressure_score": 51.11035997149781
+      },
+      {
+        "rank": 6,
+        "player_id": 4260,
+        "name": "Heinrich Klaasen",
+        "pressure_score": 51.02589112975117
+      },
+      {
+        "rank": 7,
+        "player_id": 2756,
+        "name": "Shashank Singh",
+        "pressure_score": 50.94025016107479
+      },
+      {
+        "rank": 8,
+        "player_id": 4246,
+        "name": "Nitish Rana",
+        "pressure_score": 50.83220004949723
+      },
+      {
+        "rank": 9,
+        "player_id": 3125,
+        "name": "Nicholas Pooran",
+        "pressure_score": 50.7827118648256
+      },
+      {
+        "rank": 10,
+        "player_id": 1107,
+        "name": "Mohammad Nabi",
+        "pressure_score": 50.74985051889922
+      }
+    ],
+    "bowlers": [
+      {
+        "rank": 1,
+        "player_id": 4373,
+        "name": "Mustafizur Rahman",
+        "pressure_score": 52.38739021718633
+      },
+      {
+        "rank": 2,
+        "player_id": 4722,
+        "name": "Rashid Khan",
+        "pressure_score": 51.83496120645927
+      },
+      {
+        "rank": 3,
+        "player_id": 4692,
+        "name": "Lockie Ferguson",
+        "pressure_score": 51.64541947866818
+      },
+      {
+        "rank": 4,
+        "player_id": 781,
+        "name": "Sunil Narine",
+        "pressure_score": 51.43143315349358
+      },
+      {
+        "rank": 5,
+        "player_id": 6256,
+        "name": "Varun Chakravarthy",
+        "pressure_score": 51.291568313849325
+      },
+      {
+        "rank": 6,
+        "player_id": 8661,
+        "name": "Matheesha Pathirana",
+        "pressure_score": 51.24664060838203
+      },
+      {
+        "rank": 7,
+        "player_id": 2681,
+        "name": "Taskin Ahmed",
+        "pressure_score": 51.17978336854388
+      },
+      {
+        "rank": 8,
+        "player_id": 4101,
+        "name": "Mitchell Santner",
+        "pressure_score": 51.129647113552785
+      },
+      {
+        "rank": 9,
+        "player_id": 830,
+        "name": "Josh Hazlewood",
+        "pressure_score": 50.981030661086635
+      },
+      {
+        "rank": 10,
+        "player_id": 3644,
+        "name": "Kuldeep Yadav",
+        "pressure_score": 50.94806763593458
+      }
+    ]
+  }
+}

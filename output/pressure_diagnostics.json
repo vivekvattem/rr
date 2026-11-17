@@ -1,0 +1,98 @@
+[
+  {
+    "league": "IPL",
+    "innings": 1,
+    "phase": "Death",
+    "deliveries": 11084,
+    "pressure": 2926,
+    "mean_pressure": 0.5586317287927289
+  },
+  {
+    "league": "IPL",
+    "innings": 1,
+    "phase": "Middle",
+    "deliveries": 19787,
+    "pressure": 1122,
+    "mean_pressure": 0.34603663863218154
+  },
+  {
+    "league": "IPL",
+    "innings": 1,
+    "phase": "Powerplay",
+    "deliveries": 13256,
+    "pressure": 13,
+    "mean_pressure": 0.12660896421147444
+  },
+  {
+    "league": "IPL",
+    "innings": 2,
+    "phase": "Death",
+    "deliveries": 8558,
+    "pressure": 3068,
+    "mean_pressure": 0.3109872020537993
+  },
+  {
+    "league": "IPL",
+    "innings": 2,
+    "phase": "Middle",
+    "deliveries": 19375,
+    "pressure": 7767,
+    "mean_pressure": 0.49165784356150505
+  },
+  {
+    "league": "IPL",
+    "innings": 2,
+    "phase": "Powerplay",
+    "deliveries": 13237,
+    "pressure": 272,
+    "mean_pressure": 0.4306180208075486
+  },
+  {
+    "league": "T20I",
+    "innings": 1,
+    "phase": "Death",
+    "deliveries": 13181,
+    "pressure": 4629,
+    "mean_pressure": 0.5967371288073938
+  },
+  {
+    "league": "T20I",
+    "innings": 1,
+    "phase": "Middle",
+    "deliveries": 23693,
+    "pressure": 2360,
+    "mean_pressure": 0.3814045411384981
+  },
+  {
+    "league": "T20I",
+    "innings": 1,
+    "phase": "Powerplay",
+    "deliveries": 15951,
+    "pressure": 0,
+    "mean_pressure": 0.13895713072091098
+  },
+  {
+    "league": "T20I",
+    "innings": 2,
+    "phase": "Death",
+    "deliveries": 9075,
+    "pressure": 3089,
+    "mean_pressure": 0.2885004245793406
+  },
+  {
+    "league": "T20I",
+    "innings": 2,
+    "phase": "Middle",
+    "deliveries": 22911,
+    "pressure": 8082,
+    "mean_pressure": 0.430129952085865
+  },
+  {
+    "league": "T20I",
+    "innings": 2,
+    "phase": "Powerplay",
+    "deliveries": 15981,
+    "pressure": 314,
+    "mean_pressure": 0.4096767598471689
+  }
+]

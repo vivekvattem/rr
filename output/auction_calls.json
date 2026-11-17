@@ -1,0 +1,24 @@
+[
+  {
+    "player_id": 2756,
+    "player": "Shashank Singh",
+    "decision": "Conditional target",
+    "role": "Indian No. 6; enter around overs 11-15 and bat through the death.",
+    "strongest_evidence": "Pressure index 51.37 vs own ordinary 50.77 (lift +0.60); 176 attempts / 18 matches. Comparable Indian finisher Tewatia: 49.18 vs 50.49 (208 / 28). All these batting pressure attempts are IPL.",
+    "what_changes": "PBKS release and official listing required. Pass if RR keeps sufficient lower-order cover or needs a pure death specialist: Shashank's IPL death lift is -0.27. Intervals overlap with Tewatia.",
+    "auction_action": "monitor for release",
+    "fallback": "Rahul Tewatia",
+    "fallback_id": 3926
+  },
+  {
+    "player_id": 3653,
+    "player": "Avesh Khan",
+    "decision": "Backup only",
+    "role": "Indian death-overs cover; provisional overs 17 and 19. Other overs need separate matchup evidence.",
+    "strongest_evidence": "Pooled rank 16; IPL-only rank 3, score 51.16, lift +1.39; 252 attempts / 28 matches. Bhuvneshwar: IPL rank 4, score 51.06; death index 51.63 vs Avesh 51.46.",
+    "what_changes": "LSG release and official listing required. Promote only if RR needs Indian late-over cover after retention. Prefer Bhuvneshwar if new-ball cover also matters; neither is a proven superior buy. No middle-over upgrade claim.",
+    "auction_action": "monitor for release",
+    "fallback": "Bhuvneshwar Kumar",
+    "fallback_id": 360
+  }
+]
